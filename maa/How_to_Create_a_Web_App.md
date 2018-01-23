@@ -65,7 +65,7 @@ To create an app starting from Map Viewer, follow the steps below.
 c.  Click a thumbnail to see a description of the app and click **Create
     App** to start configuring your app.
 
-    ![image](How_to_Create_a_Web_App/media/image5.pngdfd)    
+    ![image](How_to_Create_a_Web_App/media/image4.png)  
     
 
 d.  Type a title, tags, and a summary for your app and choose the folder
