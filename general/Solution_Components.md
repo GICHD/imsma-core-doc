@@ -1,5 +1,5 @@
-Introduction
-============
+Solution Components - Draft 
+============================
 
 This document lays out the software components and installations that
 are part of the IMSMA Core System, whether required or optional. This is
@@ -14,23 +14,23 @@ IMSMA Core is an information management system for mine action,
 consisting
 
 -   Several pieces of software, some provided by Esri and other based on
-    > open-source technology
+    open-source technology
 
 -   A collection of building blocks to provide functionality to support
-    > known mine action workflows
+    known mine action workflows
 
     -   Inspiration data collection forms and already-built mobile
-        > applications
+        applications
 
     -   Workflow management tasks and data editing tools and guidelines
 
     -   Map documents, web mapping applications and information products
-        > providing a detailed view of mine action data along with
-        > summary information
+        providing a detailed view of mine action data along with summary
+        information
 
 -   A full suite of documentation that will allow programs, operators or
-    > other involved parties to make use of IMSMA Core components in
-    > configurations that fit their organizational needs
+    other involved parties to make use of IMSMA Core components in
+    configurations that fit their organizational needs
 
 At the center of IMSMA Core is ArcGIS Enterprise -- Esri's on-premises
 GIS Platform. This suite of installed software components supports
@@ -67,22 +67,22 @@ and configurations required for a country or a program's deployment of
 IMSMA Core. This approach can provide multiple benefits:
 
 -   GICHD staff will be able to access the server to perform upgrades,
-    > change database configurations, and deploy new tools
+    change database configurations, and deploy new tools
 
 -   Automated backups of the server can be taken with Amazon's cloud
-    > tools and functionality
+    tools and functionality
 
 -   Hosting stability is maintained by Amazon (security, data center
-    > access, etc.)
+    access, etc.)
 
 -   Speed of access is maintained by Amazon's substantial internet
-    > access speeds
+    access speeds
 
 -   Multiple operators in a country or region can contribute to a single
-    > shared database on this shared server
+    shared database on this shared server
 
 -   Mobile users can access data and information from IMSMA Core from
-    > any location with cellular data service or Wi-Fi connectivity
+    any location with cellular data service or Wi-Fi connectivity
 
 Locally-Hosted IMSMA Core
 -------------------------
@@ -148,36 +148,36 @@ viewing data from other Hubs, so the security model allows for four
 different levels of access:
 
 1.  Collectors -- Partner-employed in the field that submit records for
-    > a specific activity type for a specific Hub
+    a specific activity type for a specific Hub
 
 2.  National Partner PMs -- overseeing project managers or team leads
-    > who review data submitted by their teams
+    who review data submitted by their teams
 
 3.  Hub DBM/PM -- International staff or HI staff that review all data
-    > submitted within a specific hub for accuracy and completion. Also
-    > responsible for Donor allocation
+    submitted within a specific hub for accuracy and completion. Also
+    responsible for Donor allocation
 
 4.  Coordination -- HI Main Jordan office and International Staff, who
-    > create reports, organize resources and plan strategy across the
-    > hubs.
+    create reports, organize resources and plan strategy across the
+    hubs.
 
 The data collection pattern in HI follows these rough steps:
 
 1.  Users submit forms (of any of the 5 types) from the field using
-    > personal Android devices. Forms are automatically marked for
-    > certain "QA notes" that should be reviewed by a higher-level
-    > staffperson. The forms themselves are set up so that most data
-    > quality issues are addressed through verification
+    personal Android devices. Forms are automatically marked for certain
+    "QA notes" that should be reviewed by a higher-level staffperson.
+    The forms themselves are set up so that most data quality issues are
+    addressed through verification
 
 2.  Partner PMs or Hub DBMs have access to the submitted forms, review
-    > them for consistency and make any necessary edits, then mark the
-    > forms as reviewed
+    them for consistency and make any necessary edits, then mark the
+    forms as reviewed
 
 3.  Hub PMs or Coordination PMs review completed data at the end of the
-    > month and assign Donors to each record based on existing donor
-    > relationships. This completes the data submission, review and
-    > verification process. Records are visible in various web
-    > application dashboards for review.
+    month and assign Donors to each record based on existing donor
+    relationships. This completes the data submission, review and
+    verification process. Records are visible in various web application
+    dashboards for review.
 
 ### UNMAS -- Gaza Risk Assessment Deployment
 
@@ -189,24 +189,23 @@ UNMAS team to effectively complete their operations with the benefits of
 mobile data submission and smart form logic.
 
 1.  UNMAS receives phone-in requests for Risk Assessments to a central
-    > office location, and records the details of these requests using a
-    > Windows-based Survey123 form.
+    office location, and records the details of these requests using a
+    Windows-based Survey123 form.
 
 2.  These requests are then assigned using a Web AppBuilder app, to
-    > provide a responsible user and show only those locations needing
-    > assignment
+    provide a responsible user and show only those locations needing
+    assignment
 
 3.  Users in the field can open Collector (when connected to WiFi or
-    > Cellular Network) and review their assignments, take the map
-    > offline, etc.
+    Cellular Network) and review their assignments, take the map
+    offline, etc.
 
     a.  From the Collector map of assignments, the users can launch a
-        > Survey123 form for the actual Risk Assessment and collect
-        > evidence/attributes that remain related to the assignment
-        > point
+        Survey123 form for the actual Risk Assessment and collect
+        evidence/attributes that remain related to the assignment point
 
 4.  After the RA activities are submitted, staff can view results from a
-    > dashboard built with Web AppBuilder
+    dashboard built with Web AppBuilder
 
 This system is deployed entirely within the GICHD ArcGIS Online
 environment -- with a selected set of users from UNMAS. This pattern
@@ -261,8 +260,8 @@ mobile device system requirements:
 2.  iOS version 9 or later
 
 3.  Cellular data connectivity (3G or better) or Wi-Fi connectivity for
-    > syncing data and submitting surveys (not required while collecting
-    > data).
+    syncing data and submitting surveys (not required while collecting
+    data).
 
 Additional Software Components
 ------------------------------
@@ -275,23 +274,23 @@ tools and features that can support mine action information management,
 but in the context of IMSMA Core it serves the following purposes:
 
 -   Storing geodatabase tables that contain IMSMA Core Data -- both
-    > geospatial and tabular features
+    geospatial and tabular features
 
 -   Storing the "sde" schema which contains the enterprise geodatabase
-    > system table, geospatial functions and stored procedures
+    system table, geospatial functions and stored procedures
 
 -   Storing archival versions of relevant IMSMA Core features (IMSMA
-    > Core's version of the 'infoversions' in IMSMAng)
+    Core's version of the 'infoversions' in IMSMAng)
 
 -   Storing additional tables created by NMACs or identified as
-    > ancillary to IMSMA Core
+    ancillary to IMSMA Core
 
 -   Setting privileges and controlling user access to data and editing
-    > privileges
+    privileges
 
 -   Providing import/export functionality to back up the database,
-    > provide it as a data export, or importing features from another
-    > database
+    provide it as a data export, or importing features from another
+    database
 
 Versions of PostgreSQL are also embedded within the ArcGIS Data Store
 and Portal for ArcGIS installations. These embedded versions are not
@@ -381,16 +380,16 @@ The ArcGIS Web Adaptor is an installable .NET web application provided
 by Esri which serves two main purposes:
 
 -   Reverse-proxy traffic from web browsers and other client apps from
-    > ports 80 and 443 (HTTP + HTTPS) to the back-end applications for
-    > ArcGIS for Server and Portal (over ports 6080/6443 and 7080/7443
-    > respectively). This allows the system to use a single hostname,
-    > SSL certificate and port to provide access to both Portal and
-    > ArcGIS Server.
+    ports 80 and 443 (HTTP + HTTPS) to the back-end applications for
+    ArcGIS for Server and Portal (over ports 6080/6443 and 7080/7443
+    respectively). This allows the system to use a single hostname, SSL
+    certificate and port to provide access to both Portal and ArcGIS
+    Server.
 
 -   Support authentication patterns leveraging web server-based
-    > authentication such as Integrated Windows authentication. This
-    > configuration is not used in the IMSMA Core project and is not
-    > relevant at this time.
+    authentication such as Integrated Windows authentication. This
+    configuration is not used in the IMSMA Core project and is not
+    relevant at this time.
 
 The ArcGIS Web Adaptor is installed into an existing IIS installation,
 and will install missing IIS components if required. It appears as a

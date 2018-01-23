@@ -1,7 +1,5 @@
-IMSMA Core Engagement Strategy -- Draft
-
-Introduction
-============
+Engagement Strategy -- Draft
+============================
 
 This document serves to lay out a rough engagement strategy for an IMSMA
 Core Deployment with either a Mine Action Organization ("Operator"), a
@@ -43,25 +41,25 @@ for the Program:
 -   Existing GIS Data availability (types of features, use and sources)
 
 -   Overview of Program structure -- IM staff, GIS capabilities HQ and
-    > field offices, relationship with other primary
-    > operators/NMAC/government organizations as appropriate
+    field offices, relationship with other primary
+    operators/NMAC/government organizations as appropriate
 
     -   This data may be collected through a GICHD IM Assessment or
-        > other formal engagement, or may be available by request from
-        > the NMAC or Operator
+        other formal engagement, or may be available by request from the
+        NMAC or Operator
 
 -   Existing IT resources, mobile devices, network configuration and
-    > level of internet access for their primary users
+    level of internet access for their primary users
 
     -   [[https://cloudharmony.com/speedtest-for-aws]{.underline}](https://cloudharmony.com/speedtest-for-aws)
-        > provides an excellent network speed test, which takes about 30
-        > minutes to run but provides guidance on which AWS regions
-        > provide the best access and Internet speeds from a user's
-        > location.
+        provides an excellent network speed test, which takes about 30
+        minutes to run but provides guidance on which AWS regions
+        provide the best access and Internet speeds from a user's
+        location.
 
 -   Overview of ongoing Mine Action activities: is the organization
-    > engaged in land release, MRE, Victim Assistance, EOD Spot Tasks,
-    > etc.?
+    engaged in land release, MRE, Victim Assistance, EOD Spot Tasks,
+    etc.?
 
 Running IMSMAng database statistics
 -----------------------------------
@@ -71,7 +69,7 @@ run against the IMSMAng database to provide a summary of various
 characteristics of the IMSMAng database such as:
 
 -   Use of custom-defined fields (\# of fields and \# of fields used in
-    > system)
+    system)
 
 -   counts of features and rows in each data table in IMSMAng
 
@@ -140,39 +138,39 @@ could follow this structure:
 1.  Months 1-2
 
     a.  Initial IMSMA Core scoping meeting (on-site with program) and
-        > production of materials related to existing IMSMAng current
-        > use cases
+        production of materials related to existing IMSMAng current use
+        cases
 
     b.  Drafting and signature of IMSMA Core agreement -- documenting
-        > the Esri Licensing, GICHD support and other components of the
-        > Implementation.
+        the Esri Licensing, GICHD support and other components of the
+        Implementation.
 
     c.  Obtain and convert FFML forms with IMSMA Core tools to provide a
-        > starting point for Survey123 Development.
+        starting point for Survey123 Development.
 
 2.  Months 3-6
 
     d.  IMSMA Advisor preparation of IMSMA Core pilot materials,
-        > migration process and scope of support based on mutual
-        > agreement with NMAC or Operator
+        migration process and scope of support based on mutual agreement
+        with NMAC or Operator
 
 3.  Months 6-8
 
     e.  Field visit to NMAC or Operator for rollout of IMSMA Core Trial
-        > (validation with a select set of field users with real data
-        > collection examples)
+        (validation with a select set of field users with real data
+        collection examples)
 
     f.  This activity should focus on the primary use cases for IMSMA
-        > Core (program-dependent)
+        Core (program-dependent)
 
 4.  Months 9-16
 
     g.  Trial and final Data Migration to IMSMA Core, migration of
-        > existing attachments (photos and other) and related GIS and IM
-        > datasets
+        existing attachments (photos and other) and related GIS and IM
+        datasets
 
     h.  Rollout of IMSMA Core to production usage, with ongoing support,
-        > maintenance, upgrades and bug-fixed by GICHD as appropriate.
+        maintenance, upgrades and bug-fixed by GICHD as appropriate.
 
 In general, IMSMA core trials have focused on a single data type or form
 to begin, which supports the setup of the system and migration of one
@@ -189,24 +187,24 @@ deployment of IMSMA Core as well as a series of workflows that the IMSMA
 Advisor can follow to complete the following commonly-completed tasks:
 
 -   Converting a program's existing data entry forms (likely
-    > spreadsheets or Word Documents) to Survey123 Forms using XLSForm
-    > templates. This process will include mapping data collected by the
-    > program to existing IMSMA Core fields in the database.
+    spreadsheets or Word Documents) to Survey123 Forms using XLSForm
+    templates. This process will include mapping data collected by the
+    program to existing IMSMA Core fields in the database.
 
 -   Adding custom fields from IMSMAng to the default IMSMA Core schema
-    > based on an identification of which CDFs are used in the IMSMAng
-    > deployment
+    based on an identification of which CDFs are used in the IMSMAng
+    deployment
 
 -   Translating existing IMSMA users + privileges to IMSMA Core users
-    > and roles and identifying potential users of IMSMA Core workflows
-    > that may not have been able to make use of IMSMAng
+    and roles and identifying potential users of IMSMA Core workflows
+    that may not have been able to make use of IMSMAng
 
 -   Identifying existing hardware resources and advising on IMSMA Core
-    > system requirements
+    system requirements
 
 -   Migrating IMSMAng data into the new IMSMA Core data structure
-    > following the trial/testing period and with the organization's
-    > approval.
+    following the trial/testing period and with the organization's
+    approval.
 
 Initiating the IMSMA Core GitHub Repository and Content Folders
 ---------------------------------------------------------------
@@ -241,13 +239,13 @@ Core workflows might provide good options for the Program:
 -   Review Program Structure
 
     -   How is the operator, program or organization structured in terms
-        > of reporting, responsibilities and staffing?
+        of reporting, responsibilities and staffing?
 
     -   Do they have staff in multiple locations and different
-        > office/field office locations?
+        office/field office locations?
 
     -   Do they employ their own field teams or work with local
-        > partners?
+        partners?
 
     -   How do they interact with the NMAC or NMAA (if they do)?
 
@@ -264,51 +262,51 @@ Core workflows might provide good options for the Program:
     -   Paper Forms already in use?
 
     -   Type of Information Management tools in use at the country level
-        > or at the international level if appropriate
+        or at the international level if appropriate
 
     -   Project Management tools -- project and donor tracking and
-        > project ID generation.
+        project ID generation.
 
 -   Review Reporting and Operational Requirements
 
     -   How are field teams tasked with specific operations or
-        > locations?
+        locations?
 
     -   When and how often is data submitted from field teams?
 
     -   How does existing data get used in operational decisions?
 
     -   What type of daily, weekly or monthly reporting is currently in
-        > place?
+        place?
 
     -   How is Quality Management considered, tracked and implemented?
 
 -   Explanation of existing partnerships with other data collection
-    > vendors or systems
+    vendors or systems
 
     -   What other groups are working in the same area, and how do they
-        > interact?
+        interact?
 
 -   Assess Existing resources
 
     -   Does the country program have a dedicated and long-term IM
-        > management team?
+        management team?
 
         -   Is there an international program that supports this task as
-            > well?
+            well?
 
     -   Does the program have available IT resources, IM and GIS Staff?
 
     -   Is there good access to provisioning or personal mobile devices
-        > and mobile data in the country?
+        and mobile data in the country?
 
     -   Is there an existing network environment and internet
-        > connectivity to support IMSMA Core connections?
+        connectivity to support IMSMA Core connections?
 
     -   Identify the available geospatial datasets that can support
-        > IMSMA Core deployment -- administrative boundaries, settlement
-        > and community locations, and other points of interest that
-        > will be used as part of the gazetteer for IMSMA Core
+        IMSMA Core deployment -- administrative boundaries, settlement
+        and community locations, and other points of interest that will
+        be used as part of the gazetteer for IMSMA Core
 
 Identifying a project schedule and plan of action
 -------------------------------------------------
@@ -321,13 +319,13 @@ factors that will control the schedule and scope of an IMSMA Core
 deployment are as follows:
 
 1.  Identifying the breadth of data collection activities undertaken by
-    > a program
+    a program
 
 2.  Identifying the complexity of existing data structures and data
-    > collection systems
+    collection systems
 
 3.  Assessing the willingness and ability of the organization's staff to
-    > learn and take ownership of IMSMA Core.
+    learn and take ownership of IMSMA Core.
 
 Identifying these considerations early in the project will allow the
 IMSMA Advisor to tailor IMSMA Core to the program's needs quickly,
@@ -346,34 +344,34 @@ but an example schedule could follow this structure:
 1.  Months 1-2
 
     a.  Initial IMSMA Core scoping meeting (mission to visit the
-        > program) and preparation/sharing of materials related to
-        > existing IM systems and data collection processes
+        program) and preparation/sharing of materials related to
+        existing IM systems and data collection processes
 
     b.  Identification of one or more areas for an IMSMA Core trial --
-        > specific Mine Action processes or data collection methods that
-        > are well-suited to prototyping with IMSMA Core
+        specific Mine Action processes or data collection methods that
+        are well-suited to prototyping with IMSMA Core
 
 2.  Months 3-6
 
     c.  IMSMA Advisor preparation of IMSMA Core pilot materials,
-        > migration process and scope of support based on mutual
-        > agreement with NMAC or Operator
+        migration process and scope of support based on mutual agreement
+        with NMAC or Operator
 
 3.  Months 6-8
 
     d.  Field visit to NMAC or Operator for rollout of IMSMA Core Trial
-        > (validation with a select set of field users with real data
-        > collection examples)
+        (validation with a select set of field users with real data
+        collection examples)
 
 4.  Months 9-16
 
     e.  Rollout of IMSMA Core to production usage, with ongoing support,
-        > maintenance, upgrades and bug fixed by GICHD as appropriate.
+        maintenance, upgrades and bug fixed by GICHD as appropriate.
 
     f.  Expansion of IMSMA Core usage to cover other aspects of Mine
-        > Action workflows as the NMAC or Program expands into new
-        > programmatic areas or identifies additional areas for further
-        > work
+        Action workflows as the NMAC or Program expands into new
+        programmatic areas or identifies additional areas for further
+        work
 
 Initiating the IMSMA Core GitHub Repository and Content Folders
 ---------------------------------------------------------------
