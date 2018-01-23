@@ -19,18 +19,18 @@ Accessing AGO Assistant
 -----------------------
 
 1.  Go to
-    [[https://ago-assistant.esri.com/]{.underline}](https://ago-assistant.esri.com/)
+    [https://ago-assistant.esri.com/](https://ago-assistant.esri.com/)
 
 2.  Choose **Log in to Portal for ArcGIS**
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image1.png){width="6.0in"
-height="3.5701388888888888in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image1.png)
+
 
 3.  Enter the URL for the IMSMA portal
-    [[https://imsma-core.esri.com/portal]{.underline}](https://imsma-core.esri.com/portal)
+    [https://imsma-core.esri.com/portal](https://imsma-core.esri.com/portal)
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image2.png){width="3.474336176727909in"
-height="2.6914041994750657in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image2.png)
+
 
 4.  Enter your credentials, then click **Log in**
 
@@ -46,20 +46,20 @@ copied web app at the copied web map.
     -   If the item is in your content use the left side of the screen
         to view your content or search your content in the search bar.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image3.png){width="6.0in"
-height="1.9229166666666666in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image3.png)
+
 
 -   To search other content click the down arrow next to the search bar
     and choose the area you would like to search.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image4.png){width="4.213774059492564in"
-height="1.4236122047244095in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image4.png)
+
 
 2.  Once you have found the items you would like to copy click **I want
     to...** and then select **Copy Content**.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image5.png){width="6.0in"
-height="1.0784722222222223in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image5.png)
+
 
 3.  Select whether you would like to copy content into the account you
     are logged in as (your account) or another account.
@@ -67,19 +67,19 @@ height="1.0784722222222223in"}
     -   If you choose another account you will be prompted for log in
         credentials.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image6.png){width="4.273989501312336in"
-height="2.270062335958005in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image6.png)
+
 
 4.  Drag the web map you would like to copy from the left side of the
     screen to the right side of the screen.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image7.png){width="6.0in"
-height="0.9256944444444445in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image7.png)
+
 
 -   If it is successfully copied it will appear as green.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image8.png){width="6.0in"
-height="1.2375in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image8.png)
+
 
 5.  Drag the web app you would like to copy from the left side of the
     screen to the right side of the screen.
@@ -89,13 +89,13 @@ height="1.2375in"}
 6.  Click **Refresh** on the left side above your content to see the
     newly copied items.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image9.png){width="6.0in"
-height="1.051388888888889in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image9.png)
+
 
 7.  Click **I want to...** then click **View an Item's JSON**.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image10.png){width="6.0in"
-height="0.9444444444444444in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image10.png)
+
 
 8.  Click on the new copied web map in your contents.
 
@@ -108,27 +108,27 @@ height="0.9444444444444444in"}
 
     -   Copy the item's id.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image11.png){width="6.0in"
-height="1.68125in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image11.png)
+
 
 10. Click on the copied web app and scroll down to the data section then
     click the pencil icon.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image12.png){width="6.0in"
-height="1.9458333333333333in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image12.png)
+
 
 11. Press Ctrl and F at the same time on your keyboard. Paste the id of
     the original web map into the search bar that opens in the upper
     right corner.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image13.png){width="3.7083333333333335in"
-height="1.1354166666666667in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image13.png)
+
 
 12. Replace the highlighted item id of the original map with the item id
     of the new copied map.
 
-![](Copying_Web_Applications_with_AGO_Assistant/media/image14.png){width="6.0in"
-height="2.3090277777777777in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image14.png)
+
 
 13. Use the up and down arrows next to the search bar to navigate to all
     the occurrences of the original item id and replace them with the
@@ -137,9 +137,8 @@ height="2.3090277777777777in"}
 14. Once you have replaced all the original item ids scroll back to the
     top of the data section and click the save icon.
 
-[]{#_gjdgxs
-.anchor}![](Copying_Web_Applications_with_AGO_Assistant/media/image15.png){width="6.0in"
-height="1.7270833333333333in"}
+    ![image](Copying_Web_Applications_with_AGO_Assistant/media/image15.png)
+
 
 15. Go to the portal and confirm your copied web app is pointing at your
     copied web map and all the widgets are behaving as expected.

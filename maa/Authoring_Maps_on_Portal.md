@@ -490,5 +490,5 @@ location, such as the acquisition date, sensor type, and cloud cover.
     ![image](Authoring_Maps_on_Portal/media/image25.png)
 
 
-9.  []{#_gjdgxs .anchor}Click **Save** from the top of the map viewer to
+9.  Click **Save** from the top of the map viewer to
     save the pop-up changes to the map.

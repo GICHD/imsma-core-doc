@@ -3,8 +3,8 @@ Choosing the Right Web App Builder Widget
 
 Web AppBuilder allows you to easily create applications by accessing
 workflow tabs
-including [[Theme ]{.underline}](http://server.arcgis.com/en/portal/latest/use/themes-tab.htm), [[Map]{.underline}](http://server.arcgis.com/en/portal/latest/use/map-tab.htm), [[Widget]{.underline}](http://server.arcgis.com/en/portal/latest/use/widgets-tab.htm),
-and [[Attribute]{.underline}](http://server.arcgis.com/en/portal/latest/use/attributes-tab.htm).
+including [Theme](http://server.arcgis.com/en/portal/latest/use/themes-tab.htm), [Map](http://server.arcgis.com/en/portal/latest/use/map-tab.htm), [Widget](http://server.arcgis.com/en/portal/latest/use/widgets-tab.htm),
+and [Attribute](http://server.arcgis.com/en/portal/latest/use/attributes-tab.htm).
 
 Here are some considerations to keep in mind as you consider which
 widgets and theme to use:
@@ -27,7 +27,7 @@ Editing
 -------
 
 The
-[[Edit]{.underline}](http://server.arcgis.com/en/portal/latest/use/widget-edit.htm)
+[Edit](http://server.arcgis.com/en/portal/latest/use/widget-edit.htm)
 widget allows you to do basic editing.
 
 -   It has the following toolbar options: Merge, Cut, Reshape, and
@@ -53,8 +53,8 @@ widget allows you to do basic editing.
 -   An optional filter for the templates is available so you can quickly
     find the edit template.
 
-The [[Smart
-Editor]{.underline}](http://server.arcgis.com/en/portal/latest/use/widget-smart-editor.htm)
+The [Smart
+Editor](http://server.arcgis.com/en/portal/latest/use/widget-smart-editor.htm)
 widget extends the Edit widget with the following features:
 
 -   Attribute editing is performed in the panel and not in the pop-up.
@@ -81,8 +81,8 @@ widget extends the Edit widget with the following features:
 -   Configurable descriptions are available on both the widget and for
     each layer.
 
-The [[Batch Attribute
-Editor]{.underline}](http://server.arcgis.com/en/portal/latest/use/widget-batch-attribute-editor.htm)
+The [Batch Attribute
+Editor](http://server.arcgis.com/en/portal/latest/use/widget-batch-attribute-editor.htm)
 widget is edits multiple features at once, while the Smart Editor and
 Edit widgets focus on editing one feature at a time.
 
@@ -103,7 +103,7 @@ Filtering
 ---------
 
 The
-[[Filter]{.underline}](http://server.arcgis.com/en/portal/latest/use/widget-filter.htm)
+[Filter](http://server.arcgis.com/en/portal/latest/use/widget-filter.htm)
 widget allows you to limit the visibility of features in a layer. Only
 the features that meet the expression criteria will be visible in the
 map.
@@ -119,8 +119,8 @@ map.
         widget by creating an expression based unique values and
         clicking the box next to **Ask for values**.
 
-The [[Group
-Filter]{.underline}](http://server.arcgis.com/en/portal/latest/use/widget-group-filter.htm)
+The [Group
+Filter](http://server.arcgis.com/en/portal/latest/use/widget-group-filter.htm)
 widget allows you to apply a filter to multiple layers at once.
 
 -   Option to append filter to existing web map filter using or or and.
@@ -132,8 +132,8 @@ widget allows you to apply a filter to multiple layers at once.
         a blank box for the user to enter a value or have a dropdown of
         values for the user to choose from.
 
-[]{#_gjdgxs .anchor}The
-[[Query]{.underline}](http://server.arcgis.com/en/portal/latest/use/widget-query.htm)
+The
+[Query](http://server.arcgis.com/en/portal/latest/use/widget-query.htm)
 widget does not filter the source layer but instead creates a new layer
 based on the filter criteria.
 
