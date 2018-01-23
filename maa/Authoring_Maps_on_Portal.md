@@ -20,13 +20,13 @@ symbols and other smart styling that reveal data as you interact with
 it. For example, a map could show the relative magnitude of earthquakes
 that happened over the previous 60 days.
 
-Maps can be [created in a few basic
-steps](http://server.arcgis.com/en/portal/latest/use/get-started-with-maps.htm) and
+Maps can be [[created in a few basic
+steps]{.underline}](http://server.arcgis.com/en/portal/latest/use/get-started-with-maps.htm) and
 opened in standard web browsers, mobile devices, and desktop map
 viewers. They can
-be [shared](http://server.arcgis.com/en/portal/latest/use/share-maps.htm) through
-links, embedded in websites, and used to [create map-based web
-apps](http://server.arcgis.com/en/portal/latest/use/create-map-apps.htm).
+be [[shared]{.underline}](http://server.arcgis.com/en/portal/latest/use/share-maps.htm) through
+links, embedded in websites, and used to [[create map-based web
+apps]{.underline}](http://server.arcgis.com/en/portal/latest/use/create-map-apps.htm).
 When a map is shared, the author decides what to include with the map.
 For example, when the map is shared to the general public through the
 map viewer, the map includes options to switch basemaps, view a legend
@@ -38,14 +38,14 @@ websites and shared through apps often contain a focused set of tools
 for a specific purpose, such as collecting information, editing
 features, or comparing two maps side-by-side.
 
-Web maps can be used across ArcGIS because they adhere to the same [web
+Web maps can be used across ArcGIS because they adhere to the same [[web
 map
-specification](http://links.esri.com/agol-help/web-map-spec).
+specification]{.underline}](http://links.esri.com/agol-help/web-map-spec).
 This means you can create web maps in one ArcGIS app and view and modify
 them in another. For example, you can create a web map in ArcGIS Pro and
 your colleague can modify it in ArcGIS Online.
 
-[http://server.arcgis.com/en/portal/latest/use/what-is-web-map.htm](http://server.arcgis.com/en/portal/latest/use/what-is-web-map.htm)
+[[http://server.arcgis.com/en/portal/latest/use/what-is-web-map.htm]{.underline}](http://server.arcgis.com/en/portal/latest/use/what-is-web-map.htm)
 
 Web Map Key Components
 ----------------------
@@ -59,8 +59,8 @@ you want to display in a map. When you create a new map, you can choose
 which basemap you want to use. You can change the basemap of the current
 map at any time by using the basemap gallery or using your own layer as
 the basemap. You can also create a basemap containing multiple layers
-from the **Contents** pane in the map viewer. [Learn more about
-basemaps](http://server.arcgis.com/en/portal/latest/use/choose-basemap.htm).
+from the **Contents** pane in the map viewer. [[Learn more about
+basemaps]{.underline}](http://server.arcgis.com/en/portal/latest/use/choose-basemap.htm).
 
 ### Layers
 
@@ -73,8 +73,8 @@ to read. In addition, it may help your audience understand your map if
 you add some features that are not part of an existing layer. For
 example, you might want to add in some photos and captions within a
 recent fire perimeter. You can add features by adding a map notes layer
-or importing features from a file. [Learn more about
-layers](http://server.arcgis.com/en/portal/latest/use/add-layers.htm).
+or importing features from a file. [[Learn more about
+layers]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm).
 
 ### Cartography/Style
 
@@ -87,8 +87,8 @@ you\'ve added to your map. For example, water bodies and streams might
 be shown with a single, constant blue color. Roads might be symbolized
 based on road class. Seismic events, such as earthquakes, might be
 represented using graduated symbols based on their magnitude, and
-polygons might be classified based on land use. [Learn more about
-styles](http://server.arcgis.com/en/portal/latest/use/change-style.htm).
+polygons might be classified based on land use. [[Learn more about
+styles]{.underline}](http://server.arcgis.com/en/portal/latest/use/change-style.htm).
 
 ### Pop-ups
 
@@ -96,8 +96,8 @@ Pop-ups bring to life the attributes associated with each feature layer
 in the map, such as hiking trails, land values, or unemployment rates.
 They can show attachments, images, and charts and can link to external
 web pages. The default pop-up appearance for a layer is a plain list of
-attributes and values. You can [configure the
-pop-ups](http://server.arcgis.com/en/portal/latest/use/configure-pop-ups.htm) to
+attributes and values. You can [[configure the
+pop-ups]{.underline}](http://server.arcgis.com/en/portal/latest/use/configure-pop-ups.htm) to
 define the list of visible and hidden fields and how to present that
 information. For example, you might show a list of attributes or provide
 a rich interactive experience for visualizing and comparing features in
@@ -108,44 +108,53 @@ Steps to Create a Map
 
 1.  Sign in to the IMSMA Core Portal.
 
-![](Authoring_Maps_on_Portal/media/image1.png)
+![](Authoring_Maps_on_Portal/media/image1.png){width="6.5in"
+height="2.6527777777777777in"}
 
 2.  Click on **Map**.
 
-![](Authoring_Maps_on_Portal/media/image2.png)
+![](Authoring_Maps_on_Portal/media/image2.png){width="6.5in"
+height="2.7090277777777776in"}
 
 Select a Basemap
 ----------------
 
 1.  Click **Basemap**.
 
-![](Authoring_Maps_on_Portal/media/image3.png)
+![](Authoring_Maps_on_Portal/media/image3.png){width="5.1316819772528435in"
+height="2.0894061679790026in"}
 
 a.  Click the thumbnail of the basemap you want to use in your map.
 
-![](Authoring_Maps_on_Portal/media/image4.png)
+![](Authoring_Maps_on_Portal/media/image4.png){width="2.9719663167104113in"
+height="2.909245406824147in"}
 
 2.  Under **Details** and click **Content**.
 
-![](Authoring_Maps_on_Portal/media/image5.png)
+![](Authoring_Maps_on_Portal/media/image5.png){width="4.1970548993875765in"
+height="2.1379866579177604in"}
 
 3.  Click the basemap name, click **More Options** ![More
-    Options](Authoring_Maps_on_Portal/media/image6.png), and click **Description**.
+    Options](Authoring_Maps_on_Portal/media/image6.png){width="0.1527777777777778in"
+    height="4.861111111111111e-2in"}, and click **Description**.
 
-![](Authoring_Maps_on_Portal/media/image7.png)
+![](Authoring_Maps_on_Portal/media/image7.png){width="2.516712598425197in"
+height="2.971117672790901in"}
 
 4.  Click back to the tab/window with the map.
 
 5.  Click **Save** to save the new basemap to the map.
 
-![](Authoring_Maps_on_Portal/media/image8.png)
+![](Authoring_Maps_on_Portal/media/image8.png){width="5.6518919510061245in"
+height="1.0905249343832022in"}
 
 6.  Enter a title, tags (searchable keywords) and description for the
     map.
 
 7.  Click **Save Map**.
 
-![](Authoring_Maps_on_Portal/media/image9.png)
+![](Authoring_Maps_on_Portal/media/image9.png){width="3.7354800962379704in"
+height="1.7144181977252844in"}
 
 Add Layers to the Map
 ---------------------
@@ -154,11 +163,13 @@ Add Layers to the Map
 
 1.  Click **Add**, then click **Search for Layers.**
 
-![](Authoring_Maps_on_Portal/media/image10.png)
+![](Authoring_Maps_on_Portal/media/image10.png){width="2.6852635608048994in"
+height="1.8715463692038494in"}
 
 2.  Enter keywords within the **Find** field.
 
-![](Authoring_Maps_on_Portal/media/image11.png)
+![](Authoring_Maps_on_Portal/media/image11.png){width="2.6554604111986in"
+height="1.2878674540682415in"}
 
 3.  Choose where you want to search for layers---your portal, **ArcGIS
     Online**, **A GIS server**, **My Favorites**, **My Content**, or
@@ -168,13 +179,14 @@ Add Layers to the Map
         of the World, you will also have the option to search **Living
         Atlas Layers**.
 
-![](Authoring_Maps_on_Portal/media/image12.png)
+![](Authoring_Maps_on_Portal/media/image12.png){width="2.5742574365704285in"
+height="2.1412609361329835in"}
 
 4.  Uncheck **Within map area** if you don\'t want the results to be
     based on your current map extent. (Leave the box checked if you want
     the results to be based on your current map extent.)
 
-![](Authoring_Maps_on_Portal/media/image13.png)width="3.354851268591426in"
+![](Authoring_Maps_on_Portal/media/image13.png){width="3.354851268591426in"
 height="1.3933136482939632in"}
 
 5.  Click **Go**. A list of layers that relate to the keywords you
@@ -226,23 +238,23 @@ height="2.9511504811898512in"}
 
 ### Add Layers from the Web
 
-You can add the following types of layers through a URL: [ArcGIS Server
+You can add the following types of layers through a URL: [[ArcGIS Server
 web
-service](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_314AA95D5A074ACD91AA6AA1DD9F9E5C), [OGC
+service]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_314AA95D5A074ACD91AA6AA1DD9F9E5C), [[OGC
 WFS web
-service](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_49E839B2BE9C455FB6E50887BF96CDAC), [OGC
+service]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_49E839B2BE9C455FB6E50887BF96CDAC), [[OGC
 WMS web
-service](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_C34EB22293D94DEAA28712CAF132A78B), [OGC
+service]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_C34EB22293D94DEAA28712CAF132A78B), [[OGC
 WMTS web
-service](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_97BAAF75132F4D6E9A43EBE0F10C0007), [Tile
-layer](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_2C913FF2022B4DD29BF9DA6CB6014EDB), [KML
-file](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_739FD1CC71AE4EC999F51B752186F67D), [GeoRSS
-file](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_D291DA63878141B291ECF3FC4CC692FE),
-and [CSV
-file](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_E2F7001A034942B7925686E01C839A7E).
+service]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_97BAAF75132F4D6E9A43EBE0F10C0007), [[Tile
+layer]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_2C913FF2022B4DD29BF9DA6CB6014EDB), [[KML
+file]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_739FD1CC71AE4EC999F51B752186F67D), [[GeoRSS
+file]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_D291DA63878141B291ECF3FC4CC692FE),
+and [[CSV
+file]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_E2F7001A034942B7925686E01C839A7E).
 If your organization is configured for Bing Maps, you can also
-add [Bing Maps
-basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_758AE7D53057403FB9CA27FCABE174CA).
+add [[Bing Maps
+basemaps]{.underline}](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECTION2_758AE7D53057403FB9CA27FCABE174CA).
 
 1.  Click **Add**, then click **Add Layer from Web**.
 
@@ -262,8 +274,8 @@ height="2.221877734033246in"}
 > For example, to connect to an ArcGIS Server map service, you would
 > type a URL similar to the
 > following: **https://myserver.com/arcgis/rest/services/service/MapServer**. For
-> more information and examples, see [Components of ArcGIS
-> URLs](http://server.arcgis.com/en/portal/latest/administer/windows/components-of-arcgis-urls.htm) in
+> more information and examples, see [[Components of ArcGIS
+> URLs]{.underline}](http://server.arcgis.com/en/portal/latest/administer/windows/components-of-arcgis-urls.htm) in
 > the Portal for ArcGIS Administrator Guide.
 >
 > If you need to access your service over HTTPS, add your layer
@@ -303,8 +315,8 @@ height="1.6559383202099738in"}
 height="1.7641852580927384in"}
 
 4.  Choose a style based on what you want to show. For help choosing a
-    style, refer to the [Change Style quick reference
-    table](http://server.arcgis.com/en/portal/latest/use/change-style.htm#TABLE_29D47BB5EA474D1F8778BB0D032817C2).
+    style, refer to the [[Change Style quick reference
+    table]{.underline}](http://server.arcgis.com/en/portal/latest/use/change-style.htm#TABLE_29D47BB5EA474D1F8778BB0D032817C2).
 
 > ***Note:** Only the options that apply to your data appear. For
 > example, if you only know the location of a feature, you can only use
@@ -320,15 +332,15 @@ height="2.9826334208223972in"}
 
 6.  Click **Options** to customize the look of the layer.
 
-> ***Tip:** With [Color &
-> Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_5746532688614A4C805AACCBFE18BD0C) and [Types
+> ***Tip:** With [[Color &
+> Size]{.underline}](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_5746532688614A4C805AACCBFE18BD0C) and [[Types
 > &
-> Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_29829A2CC31649F7B7E0CA2095267B8D),
+> Size]{.underline}](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_29829A2CC31649F7B7E0CA2095267B8D),
 > you apply styling options to each attribute. For example, if you
-> choose the **Types & Size** style, choose options for [Types (Unique
-> symbols)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_1084DA17FD3C470B87A004AB55132D38) and
-> for [Counts and Amounts
-> (Size)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_872438351B424ECE9B435B47F6E7432F).*
+> choose the **Types & Size** style, choose options for [[Types (Unique
+> symbols)]{.underline}](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_1084DA17FD3C470B87A004AB55132D38) and
+> for [[Counts and Amounts
+> (Size)]{.underline}](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_872438351B424ECE9B435B47F6E7432F).*
 
 ![](Authoring_Maps_on_Portal/media/image23.png){width="2.283905293088364in"
 height="2.9826334208223972in"}
@@ -341,9 +353,9 @@ height="2.9826334208223972in"}
 height="4.2134087926509185in"}
 
 8.  If you
-    have [privileges](http://server.arcgis.com/en/portal/latest/use/roles.htm) or
-    the [item update
-    capability](http://server.arcgis.com/en/portal/latest/use/share-items.htm#ESRI_SECTION1_00626E637AF7465E88733B3E29C121DA) to
+    have [[privileges]{.underline}](http://server.arcgis.com/en/portal/latest/use/roles.htm) or
+    the [[item update
+    capability]{.underline}](http://server.arcgis.com/en/portal/latest/use/share-items.htm#ESRI_SECTION1_00626E637AF7465E88733B3E29C121DA) to
     apply changes to the layer and want the styling to apply to the item
     anytime it appears in a map, browse to the layer you want to save,
     click **More Options** ![More
@@ -360,13 +372,13 @@ Using Pop-ups
 -------------
 
 A map can show descriptive information about features configured
-to [display in a
-pop-up](http://doc.arcgis.com/en/arcgis-online/use-maps/view-pop-ups.htm).
+to [[display in a
+pop-up]{.underline}](http://doc.arcgis.com/en/arcgis-online/use-maps/view-pop-ups.htm).
 They can
-show [attachments](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_E563DC86D0864BAA9F2FDE0C78EF7389), [images](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_B16A9E11A48D48CBAFA9DB964FCEB805),
-and [charts](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_F3128B6FDFA94ACF89F4F2A283F2D66A) and
-can link to external web pages. You can [configure pop-ups on
-imagery](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_039AEBEB52B54B23B7B28339C6B6DDB1) when
+show [[attachments]{.underline}](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_E563DC86D0864BAA9F2FDE0C78EF7389), [[images]{.underline}](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_B16A9E11A48D48CBAFA9DB964FCEB805),
+and [[charts]{.underline}](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_F3128B6FDFA94ACF89F4F2A283F2D66A) and
+can link to external web pages. You can [[configure pop-ups on
+imagery]{.underline}](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_039AEBEB52B54B23B7B28339C6B6DDB1) when
 you\'re working with a mosaic dataset-based image service. A pop-up on
 an image layer displays the attributes of images at its current
 location, such as the acquisition date, sensor type, and cloud cover.
@@ -425,8 +437,8 @@ height="1.3253947944006998in"}
     contents for the pop-up. Your choices are a list of field
     attributes, a description from one field, a custom attribute
     display, or no attribute information. If your layer contains related
-    fields, you can configure the pop-up to [show related records in a
-    table](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_09B2E0D22072457AAC8D025377DD7CF9).
+    fields, you can configure the pop-up to [[show related records in a
+    table]{.underline}](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_09B2E0D22072457AAC8D025377DD7CF9).
 
     3.  To configure the attributes within the field or fields you want
         to display, click the **Configure Attributes** link.
@@ -460,8 +472,8 @@ height="1.9758442694663167in"}
 5.  If you\'ve selected a custom attribute display,
     click **Configure** to define and format the information you want to
     show. The custom attribute display allows you to use a combination
-    of rich text, attributes, links, and [supported
-    HTML](http://doc.arcgis.com/en/arcgis-online/reference/supported-html.htm) to
+    of rich text, attributes, links, and [[supported
+    HTML]{.underline}](http://doc.arcgis.com/en/arcgis-online/reference/supported-html.htm) to
     give you the most control and flexibility over your display. If you
     create a custom attribute display for an editable layer, the
     attributes appear as a list when someone edits the feature.
@@ -469,22 +481,22 @@ height="1.9758442694663167in"}
 ![](Authoring_Maps_on_Portal/media/image33.png){width="2.6716207349081365in"
 height="1.9401793525809274in"}
 
-5.  If your feature layer includes attachments, you can select to [show
-    attachments](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_E563DC86D0864BAA9F2FDE0C78EF7389) as
+5.  If your feature layer includes attachments, you can select to [[show
+    attachments]{.underline}](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_E563DC86D0864BAA9F2FDE0C78EF7389) as
     links at the bottom of the pop-up. Attachments are supported as a
     related table to a feature class in a feature service.
 
 6.  Add media to your pop-up if you want, such
-    as [images](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_B16A9E11A48D48CBAFA9DB964FCEB805) or [charts](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_F3128B6FDFA94ACF89F4F2A283F2D66A).
+    as [[images]{.underline}](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_B16A9E11A48D48CBAFA9DB964FCEB805) or [[charts]{.underline}](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_F3128B6FDFA94ACF89F4F2A283F2D66A).
 
 ![](Authoring_Maps_on_Portal/media/image34.png){width="2.19836832895888in"
 height="2.6633114610673667in"}
 
 7.  Click **OK** when you are finished configuring your pop-ups.
 
-8.  Click **Save Layer** to [save the configuration as a property of
+8.  Click **Save Layer** to [[save the configuration as a property of
     the
-    item](http://doc.arcgis.com/en/arcgis-online/create-maps/copy-save-layers.htm).
+    item]{.underline}](http://doc.arcgis.com/en/arcgis-online/create-maps/copy-save-layers.htm).
     You can only save item properties if you own the layer or if you
     save it as a new item.
 
