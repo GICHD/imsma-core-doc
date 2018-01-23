@@ -251,22 +251,22 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
 2.  Choose **An ArcGIS Server Web Service** and enter the layer\'s web
     address in the **URL** field.
 
-> ArcGIS Server web service URLs are in the format **https://\<server
-> name\>/arcgis/rest/services/folder/\<service name\>/\<service
-> type\>**. If the service is in the root folder, you do not need to
-> include the folder name in the URL. The URL format in that case
-> is **https://\<server name\>/arcgis/rest/services/\<service
-> name\>/\<service type\>**.
+    ArcGIS Server web service URLs are in the format **https://\<server
+    name\>/arcgis/rest/services/folder/\<service name\>/\<service
+    type\>**. If the service is in the root folder, you do not need to
+    include the folder name in the URL. The URL format in that case
+    is **https://\<server name\>/arcgis/rest/services/\<service
+    name\>/\<service type\>**.
 >
-> For example, to connect to an ArcGIS Server map service, you would
-> type a URL similar to the
-> following: **https://myserver.com/arcgis/rest/services/service/MapServer**. For
-> more information and examples, see [Components of ArcGIS
-> URLs](http://server.arcgis.com/en/portal/latest/administer/windows/components-of-arcgis-urls.htm) in
-> the Portal for ArcGIS Administrator Guide.
+    For example, to connect to an ArcGIS Server map service, you would
+    type a URL similar to the
+    following: **https://myserver.com/arcgis/rest/services/service/MapServer**. For
+    more information and examples, see [Components of ArcGIS
+    URLs](http://server.arcgis.com/en/portal/latest/administer/windows/components-of-arcgis-urls.htm) in
+    the Portal for ArcGIS Administrator Guide.
 >
-> If you need to access your service over HTTPS, add your layer
-> with **https**.
+    If you need to access your service over HTTPS, add your layer
+    with **https**.
 
 3.  If you want to use the layer as a basemap, check **Use as Basemap**.
 
@@ -305,11 +305,11 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
     style, refer to the [Change Style quick reference
     table](http://server.arcgis.com/en/portal/latest/use/change-style.htm#TABLE_29D47BB5EA474D1F8778BB0D032817C2).
 
-> ***Note:** Only the options that apply to your data appear. For
-> example, if you only know the location of a feature, you can only use
-> a single symbol or heat map but not size or color. However, if you
-> have categorical or numeric information attached to those locations,
-> smart mapping presents many other styling choices.*
+    ***Note:** Only the options that apply to your data appear. For
+    example, if you only know the location of a feature, you can only use
+    a single symbol or heat map but not size or color. However, if you
+    have categorical or numeric information attached to those locations,
+    smart mapping presents many other styling choices.*
 
 5.  The blue bar indicates the current styling of the layer.
     Click **Select** to choose a different style.
@@ -319,15 +319,15 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
 
 6.  Click **Options** to customize the look of the layer.
 
-> ***Tip:** With [Color &
-> Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_5746532688614A4C805AACCBFE18BD0C) and [Types
-> &
-> Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_29829A2CC31649F7B7E0CA2095267B8D),
-> you apply styling options to each attribute. For example, if you
-> choose the **Types & Size** style, choose options for [Types (Unique
-> symbols)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_1084DA17FD3C470B87A004AB55132D38) and
-> for [Counts and Amounts
-> (Size)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_872438351B424ECE9B435B47F6E7432F).*
+    ***Tip:** With [Color &
+    Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_5746532688614A4C805AACCBFE18BD0C) and [Types
+    &
+    Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_29829A2CC31649F7B7E0CA2095267B8D),
+    you apply styling options to each attribute. For example, if you
+    choose the **Types & Size** style, choose options for [Types (Unique
+    symbols)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_1084DA17FD3C470B87A004AB55132D38) and
+    for [Counts and Amounts
+    (Size)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_872438351B424ECE9B435B47F6E7432F).*
 
 ![](Authoring_Maps_on_Portal/media/image23.png)
 
@@ -441,13 +441,13 @@ location, such as the acquisition date, sensor type, and cloud cover.
 ![](Authoring_Maps_on_Portal/media/image31.png)
 
 
-> ***Tip:** If the layer supports editing, you can select which fields
-> to edit. Be sure to also display the field (so it appears in the edit
-> pop-up). For editable text fields, you can select the type of text box
-> and provide a hint.*
+    ***Tip:** If the layer supports editing, you can select which fields
+    to edit. Be sure to also display the field (so it appears in the edit
+    pop-up). For editable text fields, you can select the type of text box
+    and provide a hint.*
 >
-> *For date fields that include time, select a format that includes
-> both. By default, only dates are displayed.*
+    *For date fields that include time, select a format that includes
+    both. By default, only dates are displayed.*
 
 4.  If you selected to show a description from one field, click the
     arrow under **Select the field containing the description** and
