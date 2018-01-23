@@ -43,7 +43,7 @@ on their purpose. Some configurable app templates or Web App Builder
 widgets appear in more than one category, as they meet multiple
 purposes.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-65AE6223-EC47-4C56-9B0A-CD2F96A6A274-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image1.png)    } Build a story map
+![http://server.arcgis.com/en/portal/latest/use/GUID-65AE6223-EC47-4C56-9B0A-CD2F96A6A274-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image1.png)  Build a story map
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Use these apps to combine authoritative maps with narrative text,
@@ -82,7 +82,7 @@ the power of maps and geography to tell your story.
     a good choice for walking tours or for presenting locations you want
     users to follow in a sequenced order.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-F9F6E833-81FF-45BB-9E02-D1FE0A38574D-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image2.png)    } Collect and edit data
+![http://server.arcgis.com/en/portal/latest/use/GUID-F9F6E833-81FF-45BB-9E02-D1FE0A38574D-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image2.png)  Collect and edit data
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The apps in this category are primarily focused on data collection. The
@@ -167,7 +167,7 @@ General editing
     Editor](http://server.arcgis.com/en/portal/latest/use/widget-smart-editor.htm)
     widgets.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-5E3157FC-5354-45D8-8258-D732A3EC9268-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image3.png)    } Compare maps and layers
+![http://server.arcgis.com/en/portal/latest/use/GUID-5E3157FC-5354-45D8-8258-D732A3EC9268-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image3.png)  Compare maps and layers
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 These apps are focused on comparing geographic phenomena; the nature of
@@ -233,7 +233,7 @@ the comparison you choose may depend on your end goal.
     widget allows you to compare the content of different layers in a
     map.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-81F83B52-3E22-475E-89A7-94D44FB5AF33-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image4.png)    } Display a scene
+![http://server.arcgis.com/en/portal/latest/use/GUID-81F83B52-3E22-475E-89A7-94D44FB5AF33-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image4.png)  Display a scene
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 These apps allow you to interact with scenes outside of the scene
@@ -259,7 +259,7 @@ viewer.
     -- There are a range of 3-D widgets that allow you to interact with
     scenes.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-4B27BDB4-0826-41FA-BDAA-5F02E84EF3F0-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image5.png)    } Explore and summarize data
+![http://server.arcgis.com/en/portal/latest/use/GUID-4B27BDB4-0826-41FA-BDAA-5F02E84EF3F0-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image5.png)  Explore and summarize data
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The apps in this category allow your users to interact with attributes
@@ -323,7 +323,7 @@ your data.
     Slider](http://server.arcgis.com/en/portal/latest/use/widget-time-slider.htm)
     widgets.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-E81C4B37-AEC1-43C0-8B1E-8357ACE5ABD7-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image6.png)    } Make a gallery
+![http://server.arcgis.com/en/portal/latest/use/GUID-E81C4B37-AEC1-43C0-8B1E-8357ACE5ABD7-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image6.png)  Make a gallery
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Use these apps to create a gallery of maps, apps, or other content that
@@ -350,7 +350,7 @@ content. These apps require a group.
     Public Gallery app is created through a group, it is not available
     in the map viewer.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-D6F19C8B-C9CF-4736-8D45-80F78624B41D-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image7.png)    } Map social media
+![http://server.arcgis.com/en/portal/latest/use/GUID-D6F19C8B-C9CF-4736-8D45-80F78624B41D-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image7.png)  Map social media
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Use these apps to include social media content in your map to supplement
@@ -369,7 +369,7 @@ your message with content related to your theme and location.
     or Picasa. This is a good choice for showing pictures from hikes,
     vacations, or local events.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-4228213C-D21D-4121-A1AE-E33D46A2282E-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image8.png)    } Provide local information
+![http://server.arcgis.com/en/portal/latest/use/GUID-4228213C-D21D-4121-A1AE-E33D46A2282E-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image8.png)  Provide local information
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Use these apps to highlight the resources available at a location.
@@ -424,7 +424,7 @@ located within a certain geographic area.
     Me](http://server.arcgis.com/en/portal/latest/use/widget-near-me.htm)
     widgets.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-293D54BD-BC11-40F5-91E1-FF524AE815F9-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image9.png)    } Route and get directions
+![http://server.arcgis.com/en/portal/latest/use/GUID-293D54BD-BC11-40F5-91E1-FF524AE815F9-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image9.png)  Route and get directions
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Use these apps to provide driving directions from a user-defined
@@ -452,7 +452,7 @@ starting point to the geographic features within your map.
     interacts with other widgets such as [Situation
     Awareness](http://server.arcgis.com/en/portal/latest/use/widget-situation-awareness.htm).
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-760F7191-5918-4BC2-89E1-0250F7B99780-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image10.png)    } Showcase a map
+![http://server.arcgis.com/en/portal/latest/use/GUID-760F7191-5918-4BC2-89E1-0250F7B99780-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image10.png)  Showcase a map
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This category of apps includes many options for presenting thematic or
