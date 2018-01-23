@@ -53,7 +53,7 @@ Linux). Then, complete the following steps:
 
 2.  Click **New Survey**.
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image1.png){width="4.08068460192476in"
+![](Authoring_Survey123_Forms_and_Data/media/image1.png){width="4.08068460192476in"
 height="2.568740157480315in"}
 
 3.  Enter a title for your survey.
