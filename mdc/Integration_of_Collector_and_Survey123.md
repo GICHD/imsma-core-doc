@@ -126,30 +126,30 @@ pop-up must be created.
 2.  Click the three dot icon under the layer name, then click
     **Configure Pop-up**.
 
-![](mdc\Integration_of_Collector_and_Survey123/media/image1.png){width="2.881741032370954in"
+![](Integration_of_Collector_and_Survey123/media/image1.png){width="2.881741032370954in"
 height="2.8140244969378827in"}
 
 3.  Change the **Display** to **A custom attribute display**.
 
-![](mdc\Integration_of_Collector_and_Survey123/media/image2.png){width="2.547746062992126in"
+![](Integration_of_Collector_and_Survey123/media/image2.png){width="2.547746062992126in"
 height="2.7911614173228347in"}
 
 4.  Click **CONFIGURE**.
 
-![](mdc\Integration_of_Collector_and_Survey123/media/image3.png){width="2.488336614173228in"
+![](Integration_of_Collector_and_Survey123/media/image3.png){width="2.488336614173228in"
 height="2.249838145231846in"}
 
 5.  Use the plus sign next to the font size to add the attributes you
     want included in the pop-up. Format them as needed.
 
-![](mdc\Integration_of_Collector_and_Survey123/media/image4.png){width="3.882050524934383in"
+![](Integration_of_Collector_and_Survey123/media/image4.png){width="3.882050524934383in"
 height="2.1231003937007875in"}
 
 6.  Add the text you would like for the hyperlink then click the link
     icon and paste the custom URL in the **URL** box, then click
     **Set**.
 
-![](mdc\Integration_of_Collector_and_Survey123/media/image5.png){width="3.873532370953631in"
+![](Integration_of_Collector_and_Survey123/media/image5.png){width="3.873532370953631in"
 height="2.2736307961504814in"}
 
 7.  Click **OK** then click **OK** to save the pop-up configuration.

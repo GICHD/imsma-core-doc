@@ -19,13 +19,13 @@ How to Create a Survey on an Existing Feature Service
 
 1.  Open Survey123 Connect and click **New Survey**.
 
-![](mdc\Creating_a_Survey123_Form_from_an_Existing_Feature_Service/media/image1.png){width="4.3602198162729655in"
+![](Creating_a_Survey123_Form_from_an_Existing_Feature_Service/media/image1.png){width="4.3602198162729655in"
 height="2.580204505686789in"}
 
 2.  Select **Feature Service** and search for the feature service you
     would like to use to build your survey.
 
-![](mdc\Creating_a_Survey123_Form_from_an_Existing_Feature_Service/media/image2.png){width="4.0470166229221345in"
+![](Creating_a_Survey123_Form_from_an_Existing_Feature_Service/media/image2.png){width="4.0470166229221345in"
 height="2.4638090551181104in"}
 
 -   Note: you will see feature services that have line and polygon

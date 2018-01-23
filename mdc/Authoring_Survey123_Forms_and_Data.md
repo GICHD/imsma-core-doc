@@ -58,7 +58,7 @@ height="2.568740157480315in"}
 
 3.  Enter a title for your survey.
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image2.png){width="4.13290135608049in"
+![](Authoring_Survey123_Forms_and_Data/media/image2.png){width="4.13290135608049in"
 height="2.732306430446194in"}
 
 4.  Select the initial XLSForm design you would like to use.
@@ -84,7 +84,7 @@ Connect, you\'ll see a preview of the survey you just created.*
 -   *types -- this sheet explains the format and rules of the XLS form*
 
 7.  Click the **Publish** button ![Publish
-    button](mdc\Authoring_Survey123_Forms_and_Data/media/image3.png){width="0.44583333333333336in"
+    button](Authoring_Survey123_Forms_and_Data/media/image3.png){width="0.44583333333333336in"
     height="0.3736111111111111in"}.
 
 *Your survey is now available for download and use in the Survey123field
@@ -113,7 +113,7 @@ To configure:
 
 -   Open the Choices sheet.
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image4.png){width="3.73913167104112in"
+![](Authoring_Survey123_Forms_and_Data/media/image4.png){width="3.73913167104112in"
 height="1.4745877077865266in"}
 
 -   Create a list of the choices you'd like the user to choose from. The
@@ -121,7 +121,7 @@ height="1.4745877077865266in"}
     special characters), while the Label field is what the user will
     see.
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image5.png){width="2.639469597550306in"
+![](Authoring_Survey123_Forms_and_Data/media/image5.png){width="2.639469597550306in"
 height="1.7675021872265966in"}
 
 -   Click back to the survey sheet.
@@ -130,7 +130,7 @@ height="1.7675021872265966in"}
     \[list\_name\] with the name of the list that was created in the
     choices sheet (ex: select\_one example).
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image6.png){width="4.45358595800525in"
+![](Authoring_Survey123_Forms_and_Data/media/image6.png){width="4.45358595800525in"
 height="0.6529691601049868in"}
 
 -   Ignore any warnings after changing the list name.
@@ -184,7 +184,7 @@ information click
 There are also a number of example XLS files in the Samples section of
 Survey123 Connect.
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image7.png){width="3.3915387139107613in"
+![](Authoring_Survey123_Forms_and_Data/media/image7.png){width="3.3915387139107613in"
 height="3.2476891951006124in"}
 
 For more information about geopoints, including accuracy thresholds, 3D,
@@ -280,7 +280,7 @@ For a quick video tutorial click
 is also a Calculations XLS file in the Samples section of Survey123
 Connect.
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image8.png){width="4.038132108486439in"
+![](Authoring_Survey123_Forms_and_Data/media/image8.png){width="4.038132108486439in"
 height="2.5294411636045493in"}
 
 ### Username
@@ -311,7 +311,7 @@ For information about which types of barcodes Survey123 supports click
 There is also an XLS form in the Samples section of Survey123 Connect
 that has barcode examples.
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image9.png){width="3.6559120734908137in"
+![](Authoring_Survey123_Forms_and_Data/media/image9.png){width="3.6559120734908137in"
 height="2.2974431321084863in"}
 
 ### Start
@@ -759,7 +759,7 @@ and input text. You can also use an image as the background of your
 survey, but be sure that the image you\'re referencing is in the media
 subfolder of your survey project folder.
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image10.png){width="4.07094050743657in"
+![](Authoring_Survey123_Forms_and_Data/media/image10.png){width="4.07094050743657in"
 height="2.574783464566929in"}
 
 The Map tab is located on the Settings tab. It allows you to choose
@@ -771,7 +771,7 @@ for information about associating maps for offline use with your survey
 click
 [[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/includemap.htm#ESRI_SECTION1_C415D40743E5447E868AD60D3C25F14C).
 
-![](mdc\Authoring_Survey123_Forms_and_Data/media/image11.png){width="4.205670384951881in"
+![](Authoring_Survey123_Forms_and_Data/media/image11.png){width="4.205670384951881in"
 height="2.6595483377077866in"}
 
 The Images tab is located on the Settings tab. It allows you to set the
