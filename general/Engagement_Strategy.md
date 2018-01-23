@@ -150,26 +150,26 @@ could follow this structure:
 
 2.  Months 3-6
 
-    d.  IMSMA Advisor preparation of IMSMA Core pilot materials,
+    -   IMSMA Advisor preparation of IMSMA Core pilot materials,
         migration process and scope of support based on mutual agreement
         with NMAC or Operator
 
 3.  Months 6-8
 
-    e.  Field visit to NMAC or Operator for rollout of IMSMA Core Trial
+    -   Field visit to NMAC or Operator for rollout of IMSMA Core Trial
         (validation with a select set of field users with real data
         collection examples)
 
-    f.  This activity should focus on the primary use cases for IMSMA
+    -   This activity should focus on the primary use cases for IMSMA
         Core (program-dependent)
 
 4.  Months 9-16
 
-    g.  Trial and final Data Migration to IMSMA Core, migration of
+    -   Trial and final Data Migration to IMSMA Core, migration of
         existing attachments (photos and other) and related GIS and IM
         datasets
 
-    h.  Rollout of IMSMA Core to production usage, with ongoing support,
+    -   Rollout of IMSMA Core to production usage, with ongoing support,
         maintenance, upgrades and bug-fixed by GICHD as appropriate.
 
 In general, IMSMA core trials have focused on a single data type or form
@@ -343,32 +343,32 @@ but an example schedule could follow this structure:
 
 1.  Months 1-2
 
-    a.  Initial IMSMA Core scoping meeting (mission to visit the
+    -   Initial IMSMA Core scoping meeting (mission to visit the
         program) and preparation/sharing of materials related to
         existing IM systems and data collection processes
 
-    b.  Identification of one or more areas for an IMSMA Core trial --
+    -   Identification of one or more areas for an IMSMA Core trial --
         specific Mine Action processes or data collection methods that
         are well-suited to prototyping with IMSMA Core
 
 2.  Months 3-6
 
-    c.  IMSMA Advisor preparation of IMSMA Core pilot materials,
+    -   IMSMA Advisor preparation of IMSMA Core pilot materials,
         migration process and scope of support based on mutual agreement
         with NMAC or Operator
 
 3.  Months 6-8
 
-    d.  Field visit to NMAC or Operator for rollout of IMSMA Core Trial
+    -   Field visit to NMAC or Operator for rollout of IMSMA Core Trial
         (validation with a select set of field users with real data
         collection examples)
 
 4.  Months 9-16
 
-    e.  Rollout of IMSMA Core to production usage, with ongoing support,
+    -   Rollout of IMSMA Core to production usage, with ongoing support,
         maintenance, upgrades and bug fixed by GICHD as appropriate.
 
-    f.  Expansion of IMSMA Core usage to cover other aspects of Mine
+    -   Expansion of IMSMA Core usage to cover other aspects of Mine
         Action workflows as the NMAC or Program expands into new
         programmatic areas or identifies additional areas for further
         work
