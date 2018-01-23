@@ -112,40 +112,40 @@ Steps to Create a Map
 
 2.  Click on **Map**.
 
-![](Authoring_Maps_on_Portal/media/image2.png)
+    ![image](Authoring_Maps_on_Portal/media/image2.png)
 
 Select a Basemap
 ----------------
 
 1.  Click **Basemap**.
 
-![](Authoring_Maps_on_Portal/media/image3.png)
+    ![image](Authoring_Maps_on_Portal/media/image3.png)
 
 a.  Click the thumbnail of the basemap you want to use in your map.
 
-![](Authoring_Maps_on_Portal/media/image4.png)
+    ![image](Authoring_Maps_on_Portal/media/image4.png)
 
 2.  Under **Details** and click **Content**.
 
-![](Authoring_Maps_on_Portal/media/image5.png)
+    ![image](Authoring_Maps_on_Portal/media/image5.png)
 
 3.  Click the basemap name, click **More Options** ![More
     Options](Authoring_Maps_on_Portal/media/image6.png), and click **Description**.
 
-![](Authoring_Maps_on_Portal/media/image7.png)
+    ![image](Authoring_Maps_on_Portal/media/image7.png)
 
 4.  Click back to the tab/window with the map.
 
 5.  Click **Save** to save the new basemap to the map.
 
-![](Authoring_Maps_on_Portal/media/image8.png)
+    ![image](Authoring_Maps_on_Portal/media/image8.png)
 
 6.  Enter a title, tags (searchable keywords) and description for the
     map.
 
 7.  Click **Save Map**.
 
-![](Authoring_Maps_on_Portal/media/image9.png)
+    ![image](Authoring_Maps_on_Portal/media/image9.png)
 
 Add Layers to the Map
 ---------------------
@@ -154,11 +154,11 @@ Add Layers to the Map
 
 1.  Click **Add**, then click **Search for Layers.**
 
-![](Authoring_Maps_on_Portal/media/image10.png)
+    ![image](Authoring_Maps_on_Portal/media/image10.png)
 
 2.  Enter keywords within the **Find** field.
 
-![](Authoring_Maps_on_Portal/media/image11.png)
+    ![image](Authoring_Maps_on_Portal/media/image11.png)
 
 3.  Choose where you want to search for layers---your portal, **ArcGIS
     Online**, **A GIS server**, **My Favorites**, **My Content**, or
@@ -168,25 +168,25 @@ Add Layers to the Map
         of the World, you will also have the option to search **Living
         Atlas Layers**.
 
-![](Authoring_Maps_on_Portal/media/image12.png)
+    ![image](Authoring_Maps_on_Portal/media/image12.png)
 
 4.  Uncheck **Within map area** if you don\'t want the results to be
     based on your current map extent. (Leave the box checked if you want
     the results to be based on your current map extent.)
 
-![](Authoring_Maps_on_Portal/media/image13.png)
+    ![image](Authoring_Maps_on_Portal/media/image13.png)
 
 5.  Click **Go**. A list of layers that relate to the keywords you
     entered appears.
 
-![](Authoring_Maps_on_Portal/media/image13.png)
+    ![image](Authoring_Maps_on_Portal/media/image13.png)
 
 
 6.  Click a title to see a pop-up summary of the layer, or
     click **Add** to the right of the title to add the layer to your
     map.
 
-![](Authoring_Maps_on_Portal/media/image14.png)
+    ![image](Authoring_Maps_on_Portal/media/image14.png)
 
 
 7.  When you finish adding layers, click **Done Adding Layers** to close
@@ -197,14 +197,14 @@ Add Layers to the Map
 1.  Click **Add**, then **c**hoose **Browse Living Atlas Layers** to
     open a gallery of layers.
 
-![](Authoring_Maps_on_Portal/media/image10.png)
+    ![image](Authoring_Maps_on_Portal/media/image10.png)
 
 
 2.  The gallery is based on the current extent of your map.
     Uncheck **Within map area** if you don\'t want the results to be
     based on your current map extent.
 
-![](Authoring_Maps_on_Portal/media/image15.png)
+    ![image](Authoring_Maps_on_Portal/media/image15.png)
 
 
 3.  Find the layer you are interested in:
@@ -220,7 +220,7 @@ Add Layers to the Map
 4.  Click **Add To Map** and **As Layer** or **As Basemap** to add the
     layer to your map.
 
-![](Authoring_Maps_on_Portal/media/image16.png)
+    ![image](Authoring_Maps_on_Portal/media/image16.png)
 
 
 ### Add Layers from the Web
@@ -245,7 +245,7 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
 
 1.  Click **Add**, then click **Add Layer from Web**.
 
-![](Authoring_Maps_on_Portal/media/image10.png)
+    ![image](Authoring_Maps_on_Portal/media/image10.png)
 
 
 2.  Choose **An ArcGIS Server Web Service** and enter the layer\'s web
@@ -270,12 +270,12 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
 
 3.  If you want to use the layer as a basemap, check **Use as Basemap**.
 
-![](Authoring_Maps_on_Portal/media/image17.png)
+    ![image](Authoring_Maps_on_Portal/media/image17.png)
 
 
 4.  Click **Add Layer** to add the layer to your map.
 
-![](Authoring_Maps_on_Portal/media/image18.png)
+    ![image](Authoring_Maps_on_Portal/media/image18.png)
 
 
 5.  Click **Save** to save the Web Map with the new layers.
@@ -287,18 +287,18 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
     Style](Authoring_Maps_on_Portal/media/image19.png)
     .
 
-![](Authoring_Maps_on_Portal/media/image20.png)
+    ![image](Authoring_Maps_on_Portal/media/image20.png)
 
 
 2.  Choose an **attribute to show**.
 
-![](Authoring_Maps_on_Portal/media/image21.png)
+    ![image](Authoring_Maps_on_Portal/media/image21.png)
 
 
 3.  To apply multiple styles, click **Add attribute** and choose a
     second **attribute to show**.
 
-![](Authoring_Maps_on_Portal/media/image22.png)
+    ![image](Authoring_Maps_on_Portal/media/image22.png)
 
 
 4.  Choose a style based on what you want to show. For help choosing a
@@ -314,7 +314,7 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
 5.  The blue bar indicates the current styling of the layer.
     Click **Select** to choose a different style.
 
-![](Authoring_Maps_on_Portal/media/image23.png)
+    ![image](Authoring_Maps_on_Portal/media/image23.png)
 
 
 6.  Click **Options** to customize the look of the layer.
@@ -329,14 +329,14 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
     for [Counts and Amounts
     (Size)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_872438351B424ECE9B435B47F6E7432F).*
 
-![](Authoring_Maps_on_Portal/media/image23.png)
+    ![image](Authoring_Maps_on_Portal/media/image23.png)
 
 
 7.  Click **OK** when you are finished customizing your style or
     click **Cancel** to go back to the **Change Style** pane without
     saving any of your choices.
 
-![](Authoring_Maps_on_Portal/media/image24.png)
+    ![image](Authoring_Maps_on_Portal/media/image24.png)
 
 
 8.  If you
@@ -349,7 +349,7 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
     Options](Authoring_Maps_on_Portal/media/image6.png)
     , and click **Save Layer**.
 
-![](Authoring_Maps_on_Portal/media/image25.png)
+    ![image](Authoring_Maps_on_Portal/media/image25.png)
 
 
 9.  Click **Save** from the top of the map viewer to save the styling
@@ -380,7 +380,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
     Options](Authoring_Maps_on_Portal/media/image6.png)
     , and click **Enable Pop-up**.
 
-![](Authoring_Maps_on_Portal/media/image26.png)
+    ![image](Authoring_Maps_on_Portal/media/image26.png)
 
 
 3.  If you do not want to display pop-ups for a layer you have
@@ -390,7 +390,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
     , and click **Remove Pop-up**. There
     is no option to remove pop-ups for map notes or KML layers.
 
-![](Authoring_Maps_on_Portal/media/image27.png)
+    ![image](Authoring_Maps_on_Portal/media/image27.png)
 
 
 ### Configuring Pop-ups
@@ -403,7 +403,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
     Options](Authoring_Maps_on_Portal/media/image6.png)
     , and click **Configure Pop-up**.
 
-![](Authoring_Maps_on_Portal/media/image28.png)
+    ![image](Authoring_Maps_on_Portal/media/image28.png)
 
 
 3.  Enter a title for your pop-up.
@@ -412,7 +412,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
         The field values contain field aliases followed by the field
         names. By default, the primary field is displayed.
 
-![](Authoring_Maps_on_Portal/media/image29.png)
+    ![image](Authoring_Maps_on_Portal/media/image29.png)
 
 
 2.  Optionally enter static text instead of or in addition to your field
@@ -430,7 +430,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
     3.  To configure the attributes within the field or fields you want
         to display, click the **Configure Attributes** link.
 
-![](Authoring_Maps_on_Portal/media/image30.png)
+    ![image](Authoring_Maps_on_Portal/media/image30.png)
 
 
 1.  Select which fields you want to display. You can also select a field
@@ -438,7 +438,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
     (such as population), select the number of decimal places to display
     and whether to use a 1,000 separator.
 
-![](Authoring_Maps_on_Portal/media/image31.png)
+    ![image](Authoring_Maps_on_Portal/media/image31.png)
 
 
     ***Tip:** If the layer supports editing, you can select which fields
@@ -453,7 +453,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
     arrow under **Select the field containing the description** and
     click a field name to display.
 
-![](Authoring_Maps_on_Portal/media/image32.png)
+    ![image](Authoring_Maps_on_Portal/media/image32.png)
 
 
 5.  If you\'ve selected a custom attribute display,
@@ -465,7 +465,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
     create a custom attribute display for an editable layer, the
     attributes appear as a list when someone edits the feature.
 
-![](Authoring_Maps_on_Portal/media/image33.png)
+    ![image](Authoring_Maps_on_Portal/media/image33.png)
 
 
 5.  If your feature layer includes attachments, you can select to [show
@@ -476,7 +476,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
 6.  Add media to your pop-up if you want, such
     as [images](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_B16A9E11A48D48CBAFA9DB964FCEB805) or [charts](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_F3128B6FDFA94ACF89F4F2A283F2D66A).
 
-![](Authoring_Maps_on_Portal/media/image34.png)
+    ![image](Authoring_Maps_on_Portal/media/image34.png)
 
 
 7.  Click **OK** when you are finished configuring your pop-ups.
@@ -487,7 +487,7 @@ location, such as the acquisition date, sensor type, and cloud cover.
     You can only save item properties if you own the layer or if you
     save it as a new item.
 
-![](Authoring_Maps_on_Portal/media/image25.png)
+    ![image](Authoring_Maps_on_Portal/media/image25.png)
 
 
 9.  []{#_gjdgxs .anchor}Click **Save** from the top of the map viewer to
