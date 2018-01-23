@@ -3,8 +3,8 @@ IMSMA Core is a system of tools, workflows and software to support Mine Action. 
 
 
 ## **General Information**
-  [Engagement Strategy](general/engagement_strategy.md)  
-  [Solution Components](general/solution_components.md)  
+  [Engagement Strategy](general/Engagement_Strategy.md)  
+  [Solution Components](general/Solution_Components.md)  
   
 ## **Mobile Data Collection**  
   [Authoring Survey123 Forms and Data](s123/review.md)  
