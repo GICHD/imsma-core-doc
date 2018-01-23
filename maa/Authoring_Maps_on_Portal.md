@@ -108,7 +108,7 @@ Steps to Create a Map
 
 1.  Sign in to the IMSMA Core Portal.
 
-![image](Authoring_Maps_on_Portal/media/image1.png)
+  ![image](Authoring_Maps_on_Portal/media/image1.png)
 
 2.  Click on **Map**.
 
