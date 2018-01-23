@@ -2,11 +2,11 @@
 IMSMA Core is a system of tools, workflows and software to support Mine Action. This site will serve to present documentation, workflows and use cases developed as part of IMSMA Core
 
 
-## **General Information**
+## General Information
   [Engagement Strategy](general/Engagement_Strategy.md)  
   [Solution Components](general/Solution_Components.md)  
   
-## **Mobile Data Collection**  
+## Mobile Data Collection  
   [Authoring Survey123 Forms and Data](mdc/Authoring_Survey123_Forms_and_Data.md)  
   [Creating Multi-Language Surveys](mdc/Creating_Multi-Language_Surveys.md)  
   [Creating a Survey123 Form from an Existing Feature Service](mdc/Creating_a_Survey123_Form_from_an_Existing_Feature_Service.md)  
