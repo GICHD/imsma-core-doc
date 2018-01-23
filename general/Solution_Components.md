@@ -1,5 +1,5 @@
-Solution Components - Draft 
-============================
+Solution Components 
+====================
 
 This document lays out the software components and installations that
 are part of the IMSMA Core System, whether required or optional. This is

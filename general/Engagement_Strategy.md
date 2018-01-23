@@ -1,5 +1,5 @@
-Engagement Strategy -- Draft
-============================
+Engagement Strategy
+===================
 
 This document serves to lay out a rough engagement strategy for an IMSMA
 Core Deployment with either a Mine Action Organization ("Operator"), a
