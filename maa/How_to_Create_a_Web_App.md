@@ -47,8 +47,8 @@ To create an app starting from Map Viewer, follow the steps below.
 
     The **Share** pop-up opens with two tabs: **Configurable
     Apps** and **Web AppBuilder**.
-
-    ![image](How_to_Create_a_Web_App/media/image3.png)    
+>
+        ![image](How_to_Create_a_Web_App/media/image3.png)    
         
 
 3.  To use a configurable app, stay on the **Configurable Apps** tab and
@@ -62,20 +62,20 @@ To create an app starting from Map Viewer, follow the steps below.
     ![image](How_to_Create_a_Web_App/media/image4.png)    
     
 
-c.  Click a thumbnail to see a description of the app and click **Create
+    c.  Click a thumbnail to see a description of the app and click **Create
     App** to start configuring your app.
 
-    ![image](How_to_Create_a_Web_App/media/image4.png)  
+    ![image](How_to_Create_a_Web_App/media/image5.png)    
     
 
-d.  Type a title, tags, and a summary for your app and choose the folder
-    in which to save the app.
+    d.  Type a title, tags, and a summary for your app and choose the folder
+        in which to save the app.
 
-e.  If you want to immediately share this app, click **Share this app in
-    the same way as the map**. If you do not check this, you\'ll need to
-    specify how to [share the
-    app](http://doc.arcgis.com/en/arcgis-online/share-maps/share-items.htm) from **My
-    Content**.
+    e.  If you want to immediately share this app, click **Share this app in
+        the same way as the map**. If you do not check this, you\'ll need to
+        specify how to [share the
+        app](http://doc.arcgis.com/en/arcgis-online/share-maps/share-items.htm) from **My
+        Content**.
 
     ![image](How_to_Create_a_Web_App/media/image6.png)    
     
