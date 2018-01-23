@@ -48,7 +48,7 @@ To create an app starting from Map Viewer, follow the steps below.
     The **Share** pop-up opens with two tabs: **Configurable
     Apps** and **Web AppBuilder**.
 >
-        ![image](How_to_Create_a_Web_App/media/image3.png)    
+    ![image](How_to_Create_a_Web_App/media/image3.png)    
         
 
 3.  To use a configurable app, stay on the **Configurable Apps** tab and
@@ -80,7 +80,7 @@ To create an app starting from Map Viewer, follow the steps below.
     ![image](How_to_Create_a_Web_App/media/image6.png)    
     
 
-f.  Click **Done** to publish the app.
+    f.  Click **Done** to publish the app.
 
 <!-- -->
 
@@ -92,17 +92,17 @@ f.  Click **Done** to publish the app.
     ![image](How_to_Create_a_Web_App/media/image7.png)    
     
 
-b.  Type a title, tags, and summary for your app and choose the folder
-    in which the app will be saved.
+    b.  Type a title, tags, and summary for your app and choose the folder
+        in which the app will be saved.
 
-c.  Choose whether to apply the same sharing properties to the app as
-    you have on the map.
+    c.  Choose whether to apply the same sharing properties to the app as
+        you have on the map.
 
     ![image](How_to_Create_a_Web_App/media/image7.png)    
     
 
-d.  Click **Get Started** to open Web AppBuilder and continue creating
-    your app.
+    d.  Click **Get Started** to open Web AppBuilder and continue creating
+        your app.
 
 Create an app starting from the content page
 --------------------------------------------
@@ -123,19 +123,19 @@ To create an app starting from the content page, follow the steps below.
     ![image](How_to_Create_a_Web_App/media/image9.png)    
     
 
-b.  Click a thumbnail to see a description of the app and click **Create
-    App** to start configuring your app.
+    b.  Click a thumbnail to see a description of the app and click **Create
+        App** to start configuring your app.
 
     ![image](How_to_Create_a_Web_App/media/image10.png)    
     
 
-c.  Type a title, tags, and a summary and, optionally, select a
-    different folder to save your app.
+    c.  Type a title, tags, and a summary and, optionally, select a
+        different folder to save your app.
 
     ![image](How_to_Create_a_Web_App/media/image11.png)    
     
 
-d.  Click **Done** to publish the app.
+    d.  Click **Done** to publish the app.
 
 <!-- -->
 
@@ -145,15 +145,15 @@ d.  Click **Done** to publish the app.
     ![image](How_to_Create_a_Web_App/media/image8.png)    
     
 
-e.  Select **2D** or **3D**
+    a.  Select **2D** or **3D**
 
-f.  Type a title, tags, and a summary and, optionally, select a
-    different folder to save your app.
+    b.  Type a title, tags, and a summary and, optionally, select a
+        different folder to save your app.
 
     ![image](How_to_Create_a_Web_App/media/image12.png)    
     
 
-g.  Click **OK** to open Web AppBuilder and continue creating your app.
+    c.  Click **OK** to open Web AppBuilder and continue creating your app.
 
 Create an app starting from the item page
 -----------------------------------------
@@ -170,21 +170,21 @@ below:
     ![image](How_to_Create_a_Web_App/media/image13.png)    
     
 
-a.  Choose a configurable app.
+    a.  Choose a configurable app.
 
-b.  Click a thumbnail to see a description of the app and click **Create
-    App** to start configuring your app.
+    b.  Click a thumbnail to see a description of the app and click **Create
+        App** to start configuring your app.
 
     ![image](How_to_Create_a_Web_App/media/image10.png)    
     
 
-c.  Type a title, tags, and a summary and, optionally, select a
-    different folder to save your app.
+    c.  Type a title, tags, and a summary and, optionally, select a
+        different folder to save your app.
 
     ![image](How_to_Create_a_Web_App/media/image14.png)    
     
 
-d.  Click **Done** to publish the app.
+    d.  Click **Done** to publish the app.
 
 <!-- -->
 
@@ -197,10 +197,10 @@ d.  Click **Done** to publish the app.
     click **Create App \> Using the Web AppBuilder** and do the
     following:
 
-    e.  Type a title, tags, and a summary and, optionally, select a
+    a.  Type a title, tags, and a summary and, optionally, select a
         different folder to save your app.
 
     ![image](How_to_Create_a_Web_App/media/image15.png)    
     
 
-f.  Click **OK** to open Web AppBuilder and continue creating your app.
+    b.  Click **OK** to open Web AppBuilder and continue creating your app.
