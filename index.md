@@ -7,12 +7,12 @@ IMSMA Core is a system of tools, workflows and software to support Mine Action. 
   [Solution Components](general/Solution_Components.md)  
   
 ## **Mobile Data Collection**  
-  [Authoring Survey123 Forms and Data](s123/review.md)  
-  [Creating Multi-Language Surveys](s123/review.md)  
-  [Creating a Survey123 Form from an Existing Feature Service](s123/review.md)  
-  [Integration of Collector and Survey123](s123/review.md)  
-  [Making Changes to Survey123 Forms](s123/review.md)  
-  [Offline Basemap Options_for_Survey123](s123/review.md)  
+  [Authoring Survey123 Forms and Data](mdc/Authoring_Survey123_Forms_and_Data.md)  
+  [Creating Multi-Language Surveys](mdc/Creating_Multi-Language_Surveys.md)  
+  [Creating a Survey123 Form from an Existing Feature Service](mdc/Creating_a_Survey123_Form_from_an_Existing_Feature_Service.md)  
+  [Integration of Collector and Survey123](mdc/Integration_of_Collector_and_Survey123.md)  
+  [Making Changes to Survey123 Forms](mdc/Making_Changes_to_Survey123_Forms.md)  
+  [Offline Basemap Options for Survey123](mdc/Offline_Basemap_Options_for_Survey123.md)  
   
 ## Maps and Apps
   [Authoring Maps on Portal](portal/review.md)  
