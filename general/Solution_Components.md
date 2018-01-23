@@ -228,7 +228,7 @@ Core are not yet defined but are expected to be Windows 7+, Windows 8+,
 Windows 10+ or Windows Server 2012+. The majority of the Operating
 System requirements will be defined by the ArcGIS System Requirements
 provided by Esri, the most current version of which is available here:
-[[http://server.arcgis.com/en/server/latest/install/windows/arcgis-for-server-system-requirements.htm]{.underline}](http://server.arcgis.com/en/server/latest/install/windows/arcgis-for-server-system-requirements.htm)
+[http://server.arcgis.com/en/server/latest/install/windows/arcgis-for-server-system-requirements.htm](http://server.arcgis.com/en/server/latest/install/windows/arcgis-for-server-system-requirements.htm)
 
 For some component applications, especially mobile applications, support
 for Mac OS X operating systems and Android or iOS operating systems is
@@ -244,7 +244,7 @@ dedicated web server, in this case the Internet Information Services
 (IIS) web server that is available with each supported version of
 Microsoft Windows. IIS is used to host the ArcGIS Web Adaptor, and more
 detailed system requirements are available here:
-[[http://server.arcgis.com/en/web-adaptor/latest/install/iis/arcgis-web-adaptor-system-requirements.htm]{.underline}](http://server.arcgis.com/en/web-adaptor/latest/install/iis/arcgis-web-adaptor-system-requirements.htm)
+[http://server.arcgis.com/en/web-adaptor/latest/install/iis/arcgis-web-adaptor-system-requirements.htm](http://server.arcgis.com/en/web-adaptor/latest/install/iis/arcgis-web-adaptor-system-requirements.htm)
 
 Mobile Devices
 --------------
@@ -316,7 +316,7 @@ imagery and raster data, and many other workflows. ArcGIS Server is a
 mature product from Esri, used in thousands of organizations to expose
 geospatial data to users in desktop, mobile and web-based applications.
 The ArcGIS REST API is an
-[[openly-documented]{.underline}](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#/Overview/02r3000001zz000000/)
+[openly-documented](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#/Overview/02r3000001zz000000/)
 API that supports interactions with ArcGIS Server from each of these
 types of application.
 
@@ -361,7 +361,7 @@ enterprise geodatabase inside of several different RDBMS platforms, most
 commonly Oracle, SQL Server and PostgreSQL. For IMSMA Core, PostgreSQL
 is the defined RDBMS of choice. The Enterprise Geodatabase schema is
 described in more detail at the following link:
-[[http://desktop.arcgis.com/en/arcmap/latest/manage-data/using-sql-with-gdbs/overview-geodatabase-system-tables.htm]{.underline}](http://desktop.arcgis.com/en/arcmap/latest/manage-data/using-sql-with-gdbs/overview-geodatabase-system-tables.htm)
+[http://desktop.arcgis.com/en/arcmap/latest/manage-data/using-sql-with-gdbs/overview-geodatabase-system-tables.htm](http://desktop.arcgis.com/en/arcmap/latest/manage-data/using-sql-with-gdbs/overview-geodatabase-system-tables.htm)
 
 The Enterprise Geodatabase tables are created during the initial setup
 of IMSMA in a database called *imsma\_core*, but it is also important to
