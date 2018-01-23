@@ -137,15 +137,15 @@ could follow this structure:
 
 1.  Months 1-2
 
-    a.  Initial IMSMA Core scoping meeting (on-site with program) and
+    -   Initial IMSMA Core scoping meeting (on-site with program) and
         production of materials related to existing IMSMAng current use
         cases
 
-    b.  Drafting and signature of IMSMA Core agreement -- documenting
+    -   Drafting and signature of IMSMA Core agreement -- documenting
         the Esri Licensing, GICHD support and other components of the
         Implementation.
 
-    c.  Obtain and convert FFML forms with IMSMA Core tools to provide a
+    -   Obtain and convert FFML forms with IMSMA Core tools to provide a
         starting point for Survey123 Development.
 
 2.  Months 3-6
