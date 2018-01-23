@@ -174,20 +174,21 @@ Add Layers to the Map
     based on your current map extent. (Leave the box checked if you want
     the results to be based on your current map extent.)
 
-![](Authoring_Maps_on_Portal/media/image13.png)
+![](Authoring_Maps_on_Portal/media/image13.png)width="3.354851268591426in"
+height="1.3933136482939632in"}
 
 5.  Click **Go**. A list of layers that relate to the keywords you
     entered appears.
 
-![](Authoring_Maps_on_Portal/media/image13.png)
-
+![](Authoring_Maps_on_Portal/media/image13.png){width="3.279869860017498in"
+height="1.362173009623797in"}
 
 6.  Click a title to see a pop-up summary of the layer, or
     click **Add** to the right of the title to add the layer to your
     map.
 
-![](Authoring_Maps_on_Portal/media/image14.png)
-
+![](Authoring_Maps_on_Portal/media/image14.png){width="3.1923020559930007in"
+height="1.7059776902887138in"}
 
 7.  When you finish adding layers, click **Done Adding Layers** to close
     the **Search for Layers** panel.
@@ -197,15 +198,15 @@ Add Layers to the Map
 1.  Click **Add**, then **c**hoose **Browse Living Atlas Layers** to
     open a gallery of layers.
 
-![](Authoring_Maps_on_Portal/media/image10.png)
-
+![](Authoring_Maps_on_Portal/media/image10.png){width="2.6852635608048994in"
+height="1.8715463692038494in"}
 
 2.  The gallery is based on the current extent of your map.
     Uncheck **Within map area** if you don\'t want the results to be
     based on your current map extent.
 
-![](Authoring_Maps_on_Portal/media/image15.png)
-
+![](Authoring_Maps_on_Portal/media/image15.png){width="3.2988746719160105in"
+height="3.0028215223097114in"}
 
 3.  Find the layer you are interested in:
 
@@ -220,8 +221,8 @@ Add Layers to the Map
 4.  Click **Add To Map** and **As Layer** or **As Basemap** to add the
     layer to your map.
 
-![](Authoring_Maps_on_Portal/media/image16.png)
-
+![](Authoring_Maps_on_Portal/media/image16.png){width="3.231224846894138in"
+height="2.9511504811898512in"}
 
 ### Add Layers from the Web
 
@@ -245,38 +246,38 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
 
 1.  Click **Add**, then click **Add Layer from Web**.
 
-![](Authoring_Maps_on_Portal/media/image10.png)
-
+![](Authoring_Maps_on_Portal/media/image10.png){width="3.1879122922134733in"
+height="2.221877734033246in"}
 
 2.  Choose **An ArcGIS Server Web Service** and enter the layer\'s web
     address in the **URL** field.
 
-    ArcGIS Server web service URLs are in the format **https://\<server
-    name\>/arcgis/rest/services/folder/\<service name\>/\<service
-    type\>**. If the service is in the root folder, you do not need to
-    include the folder name in the URL. The URL format in that case
-    is **https://\<server name\>/arcgis/rest/services/\<service
-    name\>/\<service type\>**.
+> ArcGIS Server web service URLs are in the format **https://\<server
+> name\>/arcgis/rest/services/folder/\<service name\>/\<service
+> type\>**. If the service is in the root folder, you do not need to
+> include the folder name in the URL. The URL format in that case
+> is **https://\<server name\>/arcgis/rest/services/\<service
+> name\>/\<service type\>**.
 >
-    For example, to connect to an ArcGIS Server map service, you would
-    type a URL similar to the
-    following: **https://myserver.com/arcgis/rest/services/service/MapServer**. For
-    more information and examples, see [Components of ArcGIS
-    URLs](http://server.arcgis.com/en/portal/latest/administer/windows/components-of-arcgis-urls.htm) in
-    the Portal for ArcGIS Administrator Guide.
+> For example, to connect to an ArcGIS Server map service, you would
+> type a URL similar to the
+> following: **https://myserver.com/arcgis/rest/services/service/MapServer**. For
+> more information and examples, see [Components of ArcGIS
+> URLs](http://server.arcgis.com/en/portal/latest/administer/windows/components-of-arcgis-urls.htm) in
+> the Portal for ArcGIS Administrator Guide.
 >
-    If you need to access your service over HTTPS, add your layer
-    with **https**.
+> If you need to access your service over HTTPS, add your layer
+> with **https**.
 
 3.  If you want to use the layer as a basemap, check **Use as Basemap**.
 
-![](Authoring_Maps_on_Portal/media/image17.png)
-
+![](Authoring_Maps_on_Portal/media/image17.png){width="3.6456441382327207in"
+height="1.6557294400699913in"}
 
 4.  Click **Add Layer** to add the layer to your map.
 
-![](Authoring_Maps_on_Portal/media/image18.png)
-
+![](Authoring_Maps_on_Portal/media/image18.png){width="3.5141579177602797in"
+height="1.6072758092738408in"}
 
 5.  Click **Save** to save the Web Map with the new layers.
 
@@ -284,60 +285,60 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
 
 1.  Browse to and hover over the feature layer that contains the style
     you want to change and click **Change Style** ![Change
-    Style](Authoring_Maps_on_Portal/media/image19.png)
-    .
+    Style](Authoring_Maps_on_Portal/media/image19.png){width="0.1527777777777778in"
+    height="0.16666666666666666in"}.
 
-![](Authoring_Maps_on_Portal/media/image20.png)
-
+![](Authoring_Maps_on_Portal/media/image20.png){width="2.3769378827646546in"
+height="1.718202099737533in"}
 
 2.  Choose an **attribute to show**.
 
-![](Authoring_Maps_on_Portal/media/image21.png)
-
+![](Authoring_Maps_on_Portal/media/image21.png){width="2.3804101049868764in"
+height="1.6559383202099738in"}
 
 3.  To apply multiple styles, click **Add attribute** and choose a
     second **attribute to show**.
 
-![](Authoring_Maps_on_Portal/media/image22.png)
-
+![](Authoring_Maps_on_Portal/media/image22.png){width="2.376136264216973in"
+height="1.7641852580927384in"}
 
 4.  Choose a style based on what you want to show. For help choosing a
     style, refer to the [Change Style quick reference
     table](http://server.arcgis.com/en/portal/latest/use/change-style.htm#TABLE_29D47BB5EA474D1F8778BB0D032817C2).
 
-    ***Note:** Only the options that apply to your data appear. For
-    example, if you only know the location of a feature, you can only use
-    a single symbol or heat map but not size or color. However, if you
-    have categorical or numeric information attached to those locations,
-    smart mapping presents many other styling choices.*
+> ***Note:** Only the options that apply to your data appear. For
+> example, if you only know the location of a feature, you can only use
+> a single symbol or heat map but not size or color. However, if you
+> have categorical or numeric information attached to those locations,
+> smart mapping presents many other styling choices.*
 
 5.  The blue bar indicates the current styling of the layer.
     Click **Select** to choose a different style.
 
-![](Authoring_Maps_on_Portal/media/image23.png)
-
+![](Authoring_Maps_on_Portal/media/image23.png){width="2.283905293088364in"
+height="2.9826334208223972in"}
 
 6.  Click **Options** to customize the look of the layer.
 
-    ***Tip:** With [Color &
-    Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_5746532688614A4C805AACCBFE18BD0C) and [Types
-    &
-    Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_29829A2CC31649F7B7E0CA2095267B8D),
-    you apply styling options to each attribute. For example, if you
-    choose the **Types & Size** style, choose options for [Types (Unique
-    symbols)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_1084DA17FD3C470B87A004AB55132D38) and
-    for [Counts and Amounts
-    (Size)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_872438351B424ECE9B435B47F6E7432F).*
+> ***Tip:** With [Color &
+> Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_5746532688614A4C805AACCBFE18BD0C) and [Types
+> &
+> Size](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_29829A2CC31649F7B7E0CA2095267B8D),
+> you apply styling options to each attribute. For example, if you
+> choose the **Types & Size** style, choose options for [Types (Unique
+> symbols)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_1084DA17FD3C470B87A004AB55132D38) and
+> for [Counts and Amounts
+> (Size)](http://server.arcgis.com/en/portal/latest/use/change-style.htm#ESRI_SECTION1_872438351B424ECE9B435B47F6E7432F).*
 
-![](Authoring_Maps_on_Portal/media/image23.png)
-
+![](Authoring_Maps_on_Portal/media/image23.png){width="2.283905293088364in"
+height="2.9826334208223972in"}
 
 7.  Click **OK** when you are finished customizing your style or
     click **Cancel** to go back to the **Change Style** pane without
     saving any of your choices.
 
-![](Authoring_Maps_on_Portal/media/image24.png)
-
+![](Authoring_Maps_on_Portal/media/image24.png){width="2.245777559055118in"
+height="4.2134087926509185in"}
 
 8.  If you
     have [privileges](http://server.arcgis.com/en/portal/latest/use/roles.htm) or
@@ -346,11 +347,11 @@ basemaps](http://server.arcgis.com/en/portal/latest/use/add-layers.htm#ESRI_SECT
     apply changes to the layer and want the styling to apply to the item
     anytime it appears in a map, browse to the layer you want to save,
     click **More Options** ![More
-    Options](Authoring_Maps_on_Portal/media/image6.png)
-    , and click **Save Layer**.
+    Options](Authoring_Maps_on_Portal/media/image6.png){width="0.1527777777777778in"
+    height="4.861111111111111e-2in"}, and click **Save Layer**.
 
-![](Authoring_Maps_on_Portal/media/image25.png)
-
+![](Authoring_Maps_on_Portal/media/image25.png){width="2.456275153105862in"
+height="3.081715879265092in"}
 
 9.  Click **Save** from the top of the map viewer to save the styling
     changes to the map.
@@ -377,21 +378,21 @@ location, such as the acquisition date, sensor type, and cloud cover.
 
 2.  Browse to the sublayer that contains the feature data you want to
     show in a pop-up, click **More Options** ![More
-    Options](Authoring_Maps_on_Portal/media/image6.png)
-    , and click **Enable Pop-up**.
+    Options](Authoring_Maps_on_Portal/media/image6.png){width="0.1527777777777778in"
+    height="4.861111111111111e-2in"}, and click **Enable Pop-up**.
 
-![](Authoring_Maps_on_Portal/media/image26.png)
-
+![](Authoring_Maps_on_Portal/media/image26.png){width="2.267047244094488in"
+height="2.811557305336833in"}
 
 3.  If you do not want to display pop-ups for a layer you have
     previously enabled, browse to the feature layer, click **More
     Options** ![More
-    Options](Authoring_Maps_on_Portal/media/image6.png)
-    , and click **Remove Pop-up**. There
+    Options](Authoring_Maps_on_Portal/media/image6.png){width="0.1527777777777778in"
+    height="4.861111111111111e-2in"}, and click **Remove Pop-up**. There
     is no option to remove pop-ups for map notes or KML layers.
 
-![](Authoring_Maps_on_Portal/media/image27.png)
-
+![](Authoring_Maps_on_Portal/media/image27.png){width="2.2448786089238846in"
+height="2.7878258967629046in"}
 
 ### Configuring Pop-ups
 
@@ -400,11 +401,11 @@ location, such as the acquisition date, sensor type, and cloud cover.
 
 2.  Browse to the sublayer that contains the feature data you want to
     configure in a pop-up, click **More Options** ![More
-    Options](Authoring_Maps_on_Portal/media/image6.png)
-    , and click **Configure Pop-up**.
+    Options](Authoring_Maps_on_Portal/media/image6.png){width="0.1527777777777778in"
+    height="4.861111111111111e-2in"}, and click **Configure Pop-up**.
 
-![](Authoring_Maps_on_Portal/media/image28.png)
-
+![](Authoring_Maps_on_Portal/media/image28.png){width="2.408152887139108in"
+height="2.9977919947506564in"}
 
 3.  Enter a title for your pop-up.
 
@@ -412,8 +413,8 @@ location, such as the acquisition date, sensor type, and cloud cover.
         The field values contain field aliases followed by the field
         names. By default, the primary field is displayed.
 
-![](Authoring_Maps_on_Portal/media/image29.png)
-
+![](Authoring_Maps_on_Portal/media/image29.png){width="3.2625098425196852in"
+height="1.3253947944006998in"}
 
 2.  Optionally enter static text instead of or in addition to your field
     values.
@@ -430,31 +431,31 @@ location, such as the acquisition date, sensor type, and cloud cover.
     3.  To configure the attributes within the field or fields you want
         to display, click the **Configure Attributes** link.
 
-![](Authoring_Maps_on_Portal/media/image30.png)
-
+![](Authoring_Maps_on_Portal/media/image30.png){width="2.622235345581802in"
+height="2.2062959317585302in"}
 
 1.  Select which fields you want to display. You can also select a field
     to change its alias, order it, and format it. For number fields
     (such as population), select the number of decimal places to display
     and whether to use a 1,000 separator.
 
-![](Authoring_Maps_on_Portal/media/image31.png)
+![](Authoring_Maps_on_Portal/media/image31.png){width="2.9703499562554683in"
+height="1.9510378390201224in"}
 
-
-    ***Tip:** If the layer supports editing, you can select which fields
-    to edit. Be sure to also display the field (so it appears in the edit
-    pop-up). For editable text fields, you can select the type of text box
-    and provide a hint.*
+> ***Tip:** If the layer supports editing, you can select which fields
+> to edit. Be sure to also display the field (so it appears in the edit
+> pop-up). For editable text fields, you can select the type of text box
+> and provide a hint.*
 >
-    *For date fields that include time, select a format that includes
-    both. By default, only dates are displayed.*
+> *For date fields that include time, select a format that includes
+> both. By default, only dates are displayed.*
 
 4.  If you selected to show a description from one field, click the
     arrow under **Select the field containing the description** and
     click a field name to display.
 
-![](Authoring_Maps_on_Portal/media/image32.png)
-
+![](Authoring_Maps_on_Portal/media/image32.png){width="2.6841666666666666in"
+height="1.9758442694663167in"}
 
 5.  If you\'ve selected a custom attribute display,
     click **Configure** to define and format the information you want to
@@ -465,8 +466,8 @@ location, such as the acquisition date, sensor type, and cloud cover.
     create a custom attribute display for an editable layer, the
     attributes appear as a list when someone edits the feature.
 
-![](Authoring_Maps_on_Portal/media/image33.png)
-
+![](Authoring_Maps_on_Portal/media/image33.png){width="2.6716207349081365in"
+height="1.9401793525809274in"}
 
 5.  If your feature layer includes attachments, you can select to [show
     attachments](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_E563DC86D0864BAA9F2FDE0C78EF7389) as
@@ -476,8 +477,8 @@ location, such as the acquisition date, sensor type, and cloud cover.
 6.  Add media to your pop-up if you want, such
     as [images](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_B16A9E11A48D48CBAFA9DB964FCEB805) or [charts](http://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups.htm#ESRI_SECTION1_F3128B6FDFA94ACF89F4F2A283F2D66A).
 
-![](Authoring_Maps_on_Portal/media/image34.png)
-
+![](Authoring_Maps_on_Portal/media/image34.png){width="2.19836832895888in"
+height="2.6633114610673667in"}
 
 7.  Click **OK** when you are finished configuring your pop-ups.
 
@@ -487,8 +488,8 @@ location, such as the acquisition date, sensor type, and cloud cover.
     You can only save item properties if you own the layer or if you
     save it as a new item.
 
-![](Authoring_Maps_on_Portal/media/image25.png)
-
+![](Authoring_Maps_on_Portal/media/image25.png){width="2.456275153105862in"
+height="3.081715879265092in"}
 
 9.  []{#_gjdgxs .anchor}Click **Save** from the top of the map viewer to
     save the pop-up changes to the map.
