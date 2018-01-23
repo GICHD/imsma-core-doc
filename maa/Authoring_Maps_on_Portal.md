@@ -121,7 +121,7 @@ Select a Basemap
 
     ![image](Authoring_Maps_on_Portal/media/image3.png)
 
-a.  Click the thumbnail of the basemap you want to use in your map.
+    a.  Click the thumbnail of the basemap you want to use in your map.
 
     ![image](Authoring_Maps_on_Portal/media/image4.png)
 
