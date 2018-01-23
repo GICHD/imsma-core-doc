@@ -43,7 +43,7 @@ on their purpose. Some configurable app templates or Web App Builder
 widgets appear in more than one category, as they meet multiple
 purposes.
 
-![http://server.arcgis.com/en/portal/latest/use/GUID-65AE6223-EC47-4C56-9B0A-CD2F96A6A274-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image1.png)Build a story map
+![http://server.arcgis.com/en/portal/latest/use/GUID-65AE6223-EC47-4C56-9B0A-CD2F96A6A274-web.png](Selecting_the_Right_Web_Application_in_Portal/media/image1.png)  Build a story map
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Use these apps to combine authoritative maps with narrative text,
