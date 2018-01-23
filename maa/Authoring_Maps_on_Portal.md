@@ -20,8 +20,8 @@ symbols and other smart styling that reveal data as you interact with
 it. For example, a map could show the relative magnitude of earthquakes
 that happened over the previous 60 days.
 
-Maps can be [[created in a few basic
-steps]{.underline}](http://server.arcgis.com/en/portal/latest/use/get-started-with-maps.htm) and
+Maps can be [created in a few basic
+steps](http://server.arcgis.com/en/portal/latest/use/get-started-with-maps.htm) and
 opened in standard web browsers, mobile devices, and desktop map
 viewers. They can
 be [[shared]{.underline}](http://server.arcgis.com/en/portal/latest/use/share-maps.htm) through
