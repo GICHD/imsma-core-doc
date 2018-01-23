@@ -47,7 +47,7 @@ To create an app starting from Map Viewer, follow the steps below.
 
     The **Share** pop-up opens with two tabs: **Configurable
     Apps** and **Web AppBuilder**.
->
+
     ![image](How_to_Create_a_Web_App/media/image3.png)    
         
 
