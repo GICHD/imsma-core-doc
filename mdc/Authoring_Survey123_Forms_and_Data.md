@@ -1,6 +1,11 @@
 Authoring Survey123 Forms and Data
 ==================================
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 About Survey123
 ---------------
 
