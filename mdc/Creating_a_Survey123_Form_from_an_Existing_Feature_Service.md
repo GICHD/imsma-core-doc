@@ -7,7 +7,7 @@ include: utilizing services that are pointing at commercial databases,
 using existing data, creating multiple surveys pointing at one feature
 service.
 
-[]{#_gjdgxs .anchor}There are certain limitations with mapping the
+There are certain limitations with mapping the
 ArcGIS geodatabase model to an XLSForm, many of which present themselves
 when working with repeats. If your feature service has repeats (related
 tables) in it please refer to this
@@ -53,15 +53,16 @@ table:
 
  
 
-  ------------------------------- ---------------------------------------------
-  **Feature layer field type**    **Question type in initial XLSForm design**
-  esriFieldTypeInteger            text
-  esriFieldTypeDouble             decimal
-  esriFieldTypeString             integer
-  esriFieldTypeDate               datetime
-  esriFieldTypeGeometry (point)   geopoint
-  esriFieldTypeGUID               text
-  ------------------------------- ---------------------------------------------
+ 
+ | **Feature layer field type**   | **Question type in initial XLSForm design** |
+ | --- | --- |
+ | esriFieldTypeInteger           | text |
+ | esriFieldTypeDouble            | decimal |
+ | esriFieldTypeString            | integer |
+ | esriFieldTypeDate              | datetime |
+ | esriFieldTypeGeometry (point)  | geopoint |
+ | esriFieldTypeGUID              | text |
+
 
  
 
@@ -149,35 +150,35 @@ section goes over the fields that you can make edits to.
 Survey Sheet:
 -------------
 
-  --------------------------- ------------------------------------------------- -----------------------------------------------------------------------------------------------
-  Survey123 XLSForm Column    Can be updated without feature service updates?   Comments
-  type                        Yes                                               Change of type must be compatible with field type (ex: text to select\_one, date to dateTime)
-  name                        No                                                
-  label::en                   Yes                                               
-  hint                        Yes                                               
-  constraint                  Yes                                               
-  constraint\_message         Yes                                               
-  required                    Yes                                               
-  required\_message           Yes                                               
-  appearance                  Yes                                               
-  default                     Yes                                               Must be compatible with any domain values
-  readonly                    Yes                                               
-  relevant                    Yes                                               
-  calculation                 Yes                                               
-  choice\_filter              Yes                                               
-  repeat\_count               Yes                                               
-  label::language(..)         Yes                                               
-  hint::language(..)          Yes                                               
-  media::audio                Yes                                               
-  media::image                Yes                                               
-  body::accuracyThreshold     Yes                                               
-  bind::esri:fieldType        No                                                
-  bind::esri:fieldLength      Yes                                               Can only shorten, cannot lengthen
-  bind::esri:fieldAlias                                                         
-  body::esri:inputMask        Yes                                               
-  bind::esri:parameters       Yes                                               
-  bind::esri:saveIncomplete   Yes                                               
-  --------------------------- ------------------------------------------------- -----------------------------------------------------------------------------------------------
+
+|  Survey123 XLSForm Column   | Can be updated without feature service updates?  | Comments |
+|  type                       | Yes                                              | Change of type must be compatible with field type (ex: text to select\_one, date to dateTime) |
+|  name                       | No                                                |  |
+|  label::en                  | Yes                                              | |
+|  hint                       | Yes                                              | |
+|  constraint                 | Yes                                              | |
+|  constraint\_message        | Yes                                              | |
+|  required                   | Yes                                              | |
+|  required\_message          | Yes                                              | |
+|  appearance                 | Yes                                              | |
+|  default                    | Yes                                              | Must be compatible with any domain values |
+|  readonly                   | Yes                                              | |
+|  relevant                   | Yes                                              | |
+|  calculation                | Yes                                              | |
+|  choice\_filter             | Yes                                              | |
+|  repeat\_count              | Yes                                              | |
+|  label::language(..)        | Yes                                              | |
+|  hint::language(..)         | Yes                                              | |
+|  media::audio               | Yes                                              | |
+|  media::image               | Yes                                              | |
+|  body::accuracyThreshold    | Yes                                              | |
+|  bind::esri:fieldType       | No                                               | |
+|  bind::esri:fieldLength     | Yes                                              | Can only shorten, cannot lengthen |
+|  bind::esri:fieldAlias      |                                                  | |
+|  body::esri:inputMask       | Yes                                              | |
+|  bind::esri:parameters      | Yes                                              | |
+|  bind::esri:saveIncomplete  | Yes                                              | |
+ 
 
 **Notes:**
 
@@ -190,14 +191,14 @@ Survey Sheet:
 Choices Sheet:
 --------------
 
-  --------------------- ---------------------- ----------
-  Column                Can this be updated?   Comments
-  list\_name            No                     
-  name                  No                     
-  label                 Yes                    
-  image                 Yes                    
-  label::language(..)   Yes                    
-  --------------------- ---------------------- ----------
+ | Column              |  Can this be updated? |  Comments |
+ | --- | --- | --- |
+ | list\_name          |  No                   |  |
+ | name                |  No                   |  |
+ | label               |  Yes                  | |
+ | image               |  Yes                  |  |
+ | label::language(..) |  Yes                  |  |
+
 
 Notes:
 
@@ -210,16 +211,16 @@ Notes:
 Settings Sheet:
 ---------------
 
-  ------------------- ---------------------- ----------
-  Column              Can this be updated?   Comments
-  form\_title         Yes                    
-  form\_id            Yes                    
-  instance\_name      Yes                    
-  submission\_url     No                     
-  default\_language   Yes                    
-  version             Yes                    
-  style               Yes                    
-  ------------------- ---------------------- ----------
+ | Column              |  Can this be updated? |  Comments |
+ | --- | --- | --- |
+ | form\_title        | Yes   |                 |
+ | form\_id           | Yes   |                 |
+ | instance\_name     | Yes   |                | 
+ | submission\_url    | No    |                 |
+ | default\_language  | Yes   |                 |
+ | version            | Yes   |                 |
+ | style              | Yes   |                 |
+
 
 Adding Questions:
 -----------------
