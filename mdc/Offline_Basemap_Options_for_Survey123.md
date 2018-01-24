@@ -51,7 +51,7 @@ The ingredients for a tile package are:
 
     or
 
-b.  The map in ArcMap or Pro to export a TPK from
+    b.  The map in ArcMap or Pro to export a TPK from
 
 <!-- -->
 
@@ -135,10 +135,8 @@ which is best for a specific scenario:
 
 []{#_gjdgxs .anchor}
 
-+-----------------+-----------------+-----------------+-----------------+
-| **Method**      | **Pros**        | **Cons**        | **Recommended   |
-|                 |                 |                 | Use Case**      |
-+-----------------+-----------------+-----------------+-----------------+
+| **Method**      | **Pros**        | **Cons**        | **Recommended Use Case**      |
+| --- | --- | --- | --- |
 | Load tile       | -   Easy to     | -   Not         | Areas with very |
 | packages to SD  |     share cards |     supported   | limited network |
 | Cards           |                 |     on iOS      | connectivity +  |
