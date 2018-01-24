@@ -133,68 +133,14 @@ from the Survey123 website:
 Included below is a brief Pro/Con listing of the options to help decide
 which is best for a specific scenario:
 
-[]{#_gjdgxs .anchor}
 
 | **Method**      | **Pros**        | **Cons**        | **Recommended Use Case**      |
 | --- | --- | --- | --- |
-| Load tile packages to SD Cards | - Easy to share cards <br/> - Quick to copy and load | - Not supported on iOS <br/> - Only update by connecting to a computer | Areas with very limited network connectivity + Android devices |
+| Load tile packages to SD Cards | - Easy to share cards <br/> - Quick to copy and load <br/> - Large TPKs are supported <br/> - No Network Bandwidth required | - Not supported on iOS <br/> - Only update by connecting to a computer | Areas with very limited network connectivity + Android devices |
+| Load to device from Windows/Mac OS using USB | - Direct load via USB <br/> - Fast to copy | - No updates over the air <br/> - Requires users to be at the same place to access data <br/> - Difficult to send updates | Small survey teams <br/> One-off field exercises|
+| Add to Survey During Publishing | - All in one package <br/> - Publisher can update survey + tile package remotely | - Large download size for survey <br/> - Downloads on every refresh | Small Tile Packages or frequently-updated packages, working in areas with good data coverage |
+| Add the TPK link to the MySurvey.info file after publishing | - Create tile package once and host it -> everyone can use | - Requires bandwidth for users to download <br/> -	Manual process to add it to the file as a publisher <br/> -	No method for updating automatically |	Best option across the various use cases |
 
-| Load tile       | -   Easy to     | -   Not         | Areas with very |
-| packages to SD  |     share cards |     supported   | limited network |
-| Cards           |                 |     on iOS      | connectivity +  |
-|                 | -   Quick to    |                 | Android devices |
-|                 |     copy and    | -   Only update |                 |
-|                 |     load        |     by          |                 |
-|                 |                 |     connecting  |                 |
-|                 | -   Large TPKs  |     to a        |                 |
-|                 |     are         |     computer    |                 |
-|                 |     supported   |                 |                 |
-|                 |                 |                 |                 |
-|                 | -   No Network  |                 |                 |
-|                 |     Bandwidth   |                 |                 |
-|                 |     Required    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Load to device  | -   Direct load | -   No updates  | Small survey    |
-| from            |     via USB     |     over the    | teams           |
-| Windows/Mac OS  |                 |     air         |                 |
-| using USB       | -   Fast to     |                 | One-off field   |
-|                 |     copy        | -   Requires    | exercises       |
-|                 |                 |     users to be |                 |
-|                 |                 |     at the same |                 |
-|                 |                 |     place to    |                 |
-|                 |                 |     access data |                 |
-|                 |                 |                 |                 |
-|                 |                 | -   Difficult   |                 |
-|                 |                 |     to send     |                 |
-|                 |                 |     updates     |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Add to Survey   | -   All in one  | -   Large       | Small Tile      |
-| During          |     package     |     download    | Packages or     |
-| Publishing      |                 |     size for    | frequently-upda |
-|                 | -   Publisher   |     survey      | ted             |
-|                 |     can update  |                 | packages,       |
-|                 |     survey +    | -   Downloads   | working in      |
-|                 |     tile        |     on every    | areas with good |
-|                 |     package     |     refresh     | data coverage   |
-|                 |     remotely    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Add the TPK     | -   Create tile | -   Requires    | Best option     |
-| link to the     |     package     |     bandwidth   | across the      |
-| MySurvey.info   |     once and    |     for users   | various use     |
-| file after      |     host it -\    |     to download | cases           |
-| publishing      |     everyone    |                 |                 |
-|                 |     can use     | -   Manual      |                 |
-|                 |                 |     process to  |                 |
-|                 |                 |     add it to   |                 |
-|                 |                 |     the file as |                 |
-|                 |                 |     a publisher |                 |
-|                 |                 |                 |                 |
-|                 |                 | -   No method   |                 |
-|                 |                 |     for         |                 |
-|                 |                 |     updating    |                 |
-|                 |                 |     automatical |                 |
-|                 |                 | ly              |                 |
-+-----------------+-----------------+-----------------+-----------------+
 
 Outstanding TPK topics
 ----------------------
