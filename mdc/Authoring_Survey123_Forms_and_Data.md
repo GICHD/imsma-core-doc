@@ -1,11 +1,6 @@
 Authoring Survey123 Forms and Data
 ==================================
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 About Survey123
 ---------------
 
@@ -406,10 +401,11 @@ different types of appearances click
 [here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformsappearance.htm).
 
 
-| Appearance value    | Applicable question type                       |   Description|
-| ---- ---------------| -----------------------------------------------| -------------|
-| Signature           |Image                                           | Presents a UI for signature capture. The signature will be added to the feature as an attachment.                                                    |
-| Draw                |Image                                           | Allows user to open a canvas window to sketch on.                                                                                                    |
+| Appearance value | Applicable question type | Description |
+| -----------------| -------------------------| ----------- |
+| Signature        |Image                     | Presents a UI for signature capture. The signature will be added to the feature as an attachment.     |
+| Draw             |Image                     | Allows user to open a canvas window to sketch on.                         |
+
 | Annotate            |Image                                           | Allows user to open a canvas window to sketch on. Also supports annotation on images.                                                                |
 | Minimal             |Select\_one, Select\_multiple, Barcode, Repeats | Presents choices for select\_one and select\_multiple in drop down menu. Hides the text bar for barcode questions. Hides the questions for repeats.  |
 | Multiline           |Text                                            | Will make the text box multiple lines long.                                                                                                          |
