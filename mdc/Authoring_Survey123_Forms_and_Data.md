@@ -547,17 +547,17 @@ This column can be used to control the type of field that is created in
 ArcGIS for a given survey question. The values for this column that are
 currently supported are:
 
-  Value                       Description
-  --------------------------- ----------------------------------------------
-  esriFieldTypeDate           Date
-  esriFieldTypeSingle         Single-precision floating point numbers
-  esriFieldTypeDouble         Double-precision floating point numbers
-  esriFieldTypeInteger        Whole numbers
-  esriFieldTypeSmallInteger   Small whole numbers (from -32,768 to 32,767)
-  esriFieldTypeString         A series of alphanumeric symbols
-  esriFieldTypePointZ         Adds Z axis support to geopoint question
-  esriFieldTypeGUID           Globally Unique Identifier
-  null                        Does not require field in feature service.
+ | Value                      | Description |
+ | -------------------------- | ------------- |
+ | esriFieldTypeDate          | Date |
+ | esriFieldTypeSingle        | Single-precision floating point numbers |
+ | esriFieldTypeDouble        | Double-precision floating point numbers |
+ | esriFieldTypeInteger       | Whole numbers |
+ | esriFieldTypeSmallInteger  | Small whole numbers (from -32,768 to 32,767) |
+ | esriFieldTypeString        | A series of alphanumeric symbols |
+ | esriFieldTypePointZ        | Adds Z axis support to geopoint question |
+ | esriFieldTypeGUID          | Globally Unique Identifier |
+ | null                       | Does not require field in feature service |
 
 The default mappings for Survey123 questions are as follows:
 
