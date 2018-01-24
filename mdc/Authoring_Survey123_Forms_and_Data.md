@@ -405,7 +405,6 @@ different types of appearances click
 | -----------------| -------------------------| ----------- |
 | Signature        |Image                     | Presents a UI for signature capture. The signature will be added to the feature as an attachment.     |
 | Draw             |Image                     | Allows user to open a canvas window to sketch on.                         |
-
 | Annotate            |Image                                           | Allows user to open a canvas window to sketch on. Also supports annotation on images.                                                                |
 | Minimal             |Select\_one, Select\_multiple, Barcode, Repeats | Presents choices for select\_one and select\_multiple in drop down menu. Hides the text bar for barcode questions. Hides the questions for repeats.  |
 | Multiline           |Text                                            | Will make the text box multiple lines long.                                                                                                          |
@@ -424,7 +423,7 @@ different types of appearances click
 | Minimal compact     |Repeats                                         | Group of questions is displayed both collapsed and hidden.                                                                                           |
 | Field-list          |Groups, Repeats                                 | Applies to groups and repeats, when style is set to pages. Displays group of questions on a separate page.                                           |
 | Hide-input          |Geopoint                                        | Collapses the coordinate entry section of the widget in web form.                                                                                    |
-  -------------------- ------------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------|-------------
+
 
 ### Default
 
