@@ -561,27 +561,28 @@ currently supported are:
 
 The default mappings for Survey123 questions are as follows:
 
-  ---------------------- --------------------------------------------
-  **XLSForm Question**   **Esri Field Type (default mapping)**
-  **integer**            esriFieldTypeInteger
-  **decimal**            esriFieldTypeDouble
-  **text**               esriFieldTypeString
-  **select\_one**        esriFieldTypeString
-  **select\_multiple**   esriFieldTypeString
-  **note**               Not applicable
-  **geopoint**           esriFieldTypeGeometry (point, WGS84, 4326)
-  **geotrace**           Not implemented
-  **geoshape**           Not implemented
-  **date**               esriFieldTypeDate
-  **time**               esriFieldTypeDate
-  **dateTime**           esriFieldTypeDate
-  **image**              Attachment
-  **audio**              Not implemented
-  **barcode**            Attachment
-  **video**              Not implemented
-  **calculate**          esriFieldTypeString
-  **acknowledge**        Not implemented
-  ---------------------- --------------------------------------------
+ 
+ | **XLSForm Question** |  **Esri Field Type (default mapping)** |
+ | --- | --- |
+ | **integer**           | esriFieldTypeInteger |
+ | **decimal**           | esriFieldTypeDouble |
+ | **text**              | esriFieldTypeString | 
+ | **select\_one**       | esriFieldTypeString |
+ | **select\_multiple**  | esriFieldTypeString |
+ | **note**              | Not applicable |
+ | **geopoint**          | esriFieldTypeGeometry (point, WGS84, 4326) |
+ | **geotrace**          | Not implemented |
+ | **geoshape**          | Not implemented |
+ | **date**              | esriFieldTypeDate | 
+ | **time**              | esriFieldTypeDate |
+ | **dateTime**          | esriFieldTypeDate |
+ | **image**             | Attachment |
+ | **audio**             | Not implemented |
+ | **barcode**           | Attachment |
+ | **video**             | Not implemented |
+ | **calculate**         | esriFieldTypeString | 
+ | **acknowledge**       | Not implemented |
+
 
 For more information about field types click
 [here](https://geonet.esri.com/groups/survey123/blog/2015/08/24/xlsform-mappings-to-arcgis-feature-services-an-introduction).
@@ -620,7 +621,7 @@ into the mobile device, and whether you want to make them editable or
 not when the Inbox is enabled. The values for this field area as
 follows:
 
--   [query]{.underline}: The *query* parameter specifies which related
+-   **query**: The *query* parameter specifies which related
     records will be downloaded for display and/or editing purposes. By
     default, no query is set, so no related records are fetched. If you
     add something like *query='LastInspectionYear\>1995'*, only
@@ -631,7 +632,7 @@ follows:
 
 <!-- -->
 
--   [allowUpdates]{.underline}: Controls if downloaded related records
+-   **allowUpdates**: Controls if downloaded related records
     can be edited or not. This parameter can be set to either *true*
     or *false*. If you include *allowUpdates=false*, then your
     downloaded related records will not be editable.  Just for clarity,
@@ -643,7 +644,7 @@ follows:
 
 <!-- -->
 
--   [allowAdd]{.underline}: Controls whether new rows can be added to a
+-   **allowAdd**: Controls whether new rows can be added to a
     repeat. This parameter can be set to *true* or *false*, but the
     default is *true*.: i.e. *allowAdds=true*. Note that this parameter
     only affects surveys that have already been submitted (in the sent
@@ -652,7 +653,7 @@ follows:
 
 <!-- -->
 
--   [orderBy]{.underline}: Lets you specify the order in which related
+-   **orderBy**: Lets you specify the order in which related
     records will be displayed within your repeat.
     e.g. *orderBy=occupant\_name* will order related records by
     the *occupant\_name* field.
@@ -754,7 +755,7 @@ and input text. You can also use an image as the background of your
 survey, but be sure that the image you\'re referencing is in the media
 subfolder of your survey project folder.
 
-    ![image](Authoring_Survey123_Forms_and_Data/media/image10.png)
+![image](Authoring_Survey123_Forms_and_Data/media/image10.png)
 
 
 The Map tab is located on the Settings tab. It allows you to choose
@@ -766,7 +767,7 @@ for information about associating maps for offline use with your survey
 click
 [here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/includemap.htm#ESRI_SECTION1_C415D40743E5447E868AD60D3C25F14C).
 
-    ![image](Authoring_Survey123_Forms_and_Data/media/image11.png)
+![image](Authoring_Survey123_Forms_and_Data/media/image11.png)
 
 
 The Images tab is located on the Settings tab. It allows you to set the
