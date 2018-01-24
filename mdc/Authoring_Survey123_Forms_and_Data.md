@@ -178,7 +178,7 @@ information click
 There are also a number of example XLS files in the Samples section of
 Survey123 Connect.
 
-    ![image](Authoring_Survey123_Forms_and_Data/media/image7.png)
+![image](Authoring_Survey123_Forms_and_Data/media/image7.png)
 
 
 For more information about geopoints, including accuracy thresholds, 3D,
