@@ -137,7 +137,7 @@ which is best for a specific scenario:
 
 | **Method**      | **Pros**        | **Cons**        | **Recommended Use Case**      |
 | --- | --- | --- | --- |
-| Load tile packages to SD Cards | - Easy to share cards <br/> - Quick to copy and load | | |
+| Load tile packages to SD Cards | - Easy to share cards <br/> - Quick to copy and load | - Not supported on iOS <br/> - Only update by connecting to a computer | Areas with very limited network connectivity + Android devices |
 
 | Load tile       | -   Easy to     | -   Not         | Areas with very |
 | packages to SD  |     share cards |     supported   | limited network |
