@@ -171,6 +171,5 @@ the upper right corner and choose from the list of available languages.
 If no translations have been supplied, there will be no languages
 listed.
 
-[]{#_gjdgxs
-.anchor}    ![image](Creating_Multi-Language_Surveys/media/image5.png)
+    ![image](Creating_Multi-Language_Surveys/media/image5.png)
 
