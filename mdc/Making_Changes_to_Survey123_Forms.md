@@ -28,23 +28,24 @@ service. Only the form item will be updated. The following table
 describes the changes that can be made to a published survey that would
 not cause loss of data. 
 
-  --------------------------------------------------------------- ----------------------------
-  Changes                                                         Done without republishing?
-  Reorder questions                                               Yes
-  Delete questions                                                Yes
-  Update labels in questions                                      Yes
-  Update labels in groups                                         Yes
-  Add, update, or delete choices in lists\*                       Yes
-  Update constraints, defaults, hints, required question status   Yes
-  Update calculations, choice filters                             Yes
-  Delete questions or repeats                                     Yes
-  Change question types                                           No
-  Add new questions                                               No
-  Add repeats                                                     No
-  Add new notes                                                   Yes
-  Update repeat name                                              No
-  Add groups                                                      Yes
-  --------------------------------------------------------------- ----------------------------
+
+|  Changes                                                        | Done without republishing? |
+| --- | --- |
+|  Reorder questions                                              | Yes |
+|  Delete questions                                               | Yes |
+|  Update labels in questions                                     | Yes |
+|  Update labels in groups                                        | Yes |
+|  Add, update, or delete choices in lists\*                      | Yes |
+|  Update constraints, defaults, hints, required question status  | Yes |
+|  Update calculations, choice filters                            | Yes |
+|  Delete questions or repeats                                    | Yes |
+|  Change question types                                          | No |
+|  Add new questions                                              | No |
+|  Add repeats                                                    | No |
+|  Add new notes                                                  | Yes |
+|  Update repeat name                                             | No |
+|  Add groups                                                     | Yes |
+
 
 \*If a field has a domain the choices in the choice list can only be
 deleted to limit the options. If you would like to add choices for a
@@ -58,47 +59,45 @@ for more information.
 Survey Sheet:
 -------------
 
-  --------------------------- ------------------------------------------------- -----------------------------------------------------------------------------------------------
-  Survey123 XLSForm Column    Can be updated without feature service updates?   Comments
-  type                        Yes                                               Change of type must be compatible with field type (ex: text to select\_one, date to dateTime)
-  name                        No                                                
-  label::en                   Yes                                               
-  hint                        Yes                                               
-  constraint                  Yes                                               
-  constraint\_message         Yes                                               
-  required                    Yes                                               
-  required\_message           Yes                                               
-  appearance                  Yes                                               
-  default                     Yes                                               Must be compatible with any domain values
-  readonly                    Yes                                               
-  relevant                    Yes                                               
-  calculation                 Yes                                               
-  choice\_filter              Yes                                               
-  repeat\_count               Yes                                               
-  label::language(..)         Yes                                               
-  hint::language(..)          Yes                                               
-  media::audio                Yes                                               
-  media::image                Yes                                               
-  body::accuracyThreshold     Yes                                               
-  bind::esri:fieldType        No                                                
-  bind::esri:fieldLength      Yes                                               Can only shorten, cannot lengthen
-  bind::esri:fieldAlias                                                         
-  body::esri:inputMask        Yes                                               
-  bind::esri:parameters       Yes                                               
-  bind::esri:saveIncomplete   Yes                                               
-  --------------------------- ------------------------------------------------- -----------------------------------------------------------------------------------------------
 
+|  Survey123 XLSForm Column   | Can be updated without feature service updates?  | Comments |
+| --- | --- | --- |
+|  type                       | Yes                                              | Change of type must be compatible with field type (ex: text to select\_one, date to dateTime) |
+|  name                       | No                                                |  |
+|  label::en                  | Yes                                              | |
+|  hint                       | Yes                                              | |
+|  constraint                 | Yes                                              | |
+|  constraint\_message        | Yes                                              | |
+|  required                   | Yes                                              | |
+|  required\_message          | Yes                                              | |
+|  appearance                 | Yes                                              | |
+|  default                    | Yes                                              | Must be compatible with any domain values |
+|  readonly                   | Yes                                              | |
+|  relevant                   | Yes                                              | |
+|  calculation                | Yes                                              | |
+|  choice\_filter             | Yes                                              | |
+|  repeat\_count              | Yes                                              | |
+|  label::language(..)        | Yes                                              | |
+|  hint::language(..)         | Yes                                              | |
+|  media::audio               | Yes                                              | |
+|  media::image               | Yes                                              | |
+|  body::accuracyThreshold    | Yes                                              | |
+|  bind::esri:fieldType       | No                                               | |
+|  bind::esri:fieldLength     | Yes                                              | Can only shorten, cannot lengthen |
+|  bind::esri:fieldAlias      |                                                  | |
+|  body::esri:inputMask       | Yes                                              | |
+|  bind::esri:parameters      | Yes                                              | |
+|  bind::esri:saveIncomplete  | Yes                                              | |
 Choices Sheet:
 --------------
 
-  --------------------- ---------------------- ----------
-  Column                Can this be updated?   Comments
-  list\_name            No                     
-  name                  No                     
-  label                 Yes                    
-  image                 Yes                    
-  label::language(..)   Yes                    
-  --------------------- ---------------------- ----------
+ | Column              |  Can this be updated? |  Comments |
+ | --- | --- | --- |
+ | list\_name          |  No                   |  |
+ | name                |  No                   |  |
+ | label               |  Yes                  | |
+ | image               |  Yes                  |  |
+ | label::language(..) |  Yes                  |  |
 
 Notes:
 
@@ -111,16 +110,15 @@ Notes:
 Settings Sheet:
 ---------------
 
-  ------------------- ---------------------- ----------
-  Column              Can this be updated?   Comments
-  form\_title         Yes                    
-  form\_id            No                     
-  instance\_name      Yes                    
-  submission\_url     No                     
-  default\_language   Yes                    
-  version             Yes                    
-  style               Yes                    
-  ------------------- ---------------------- ----------
+ | Column              |  Can this be updated? |  Comments |
+ | --- | --- | --- |
+ | form\_title        | Yes   |                 |
+ | form\_id           | No   |                 |
+ | instance\_name     | Yes   |                | 
+ | submission\_url    | No    |                 |
+ | default\_language  | Yes   |                 |
+ | version            | Yes   |                 |
+ | style              | Yes   |                 |
 
 Workarounds
 ===========
