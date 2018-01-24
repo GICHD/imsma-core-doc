@@ -5,13 +5,13 @@ About Survey123
 ---------------
 
 For an introductory video about the product click
-[[here]{.underline}](https://www.youtube.com/watch?v=jfaSlJ6BYr4&list=PLGZUzt4E4O2L7h2PdpL7st93nURZAW58d).
+[here](https://www.youtube.com/watch?v=jfaSlJ6BYr4&list=PLGZUzt4E4O2L7h2PdpL7st93nURZAW58d).
 
 Creating a Survey
 -----------------
 
 For a short video tutorial click
-[[here]{.underline}](https://www.youtube.com/watch?v=utcINm0eBrU).
+[here](https://www.youtube.com/watch?v=utcINm0eBrU).
 
 Options to Create a Survey
 --------------------------
@@ -36,7 +36,7 @@ options:
 -   **Feature Service** allows you to create surveys based on existing
     hosted or federated feature services shared with your organization.
     For more information click
-    [[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/survey123withexistingfeatureservices.htm).
+    [here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/survey123withexistingfeatureservices.htm).
 
 -   **File** allows you to choose a spreadsheet that is saved on your
     machine or network. 
@@ -45,7 +45,7 @@ Steps to Create a Survey
 ------------------------
 
 To create and publish a survey,
-first [[download]{.underline}](http://doc.arcgis.com/en/survey123/download/) and
+first [download](http://doc.arcgis.com/en/survey123/download/) and
 install Survey123 Connect on your desktop computer (Windows, Mac, or
 Linux). Then, complete the following steps:
 
@@ -53,13 +53,13 @@ Linux). Then, complete the following steps:
 
 2.  Click **New Survey**.
 
-![](Authoring_Survey123_Forms_and_Data/media/image1.png){width="4.08068460192476in"
-height="2.568740157480315in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image1.png)
+
 
 3.  Enter a title for your survey.
 
-![](Authoring_Survey123_Forms_and_Data/media/image2.png){width="4.13290135608049in"
-height="2.732306430446194in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image2.png)
+
 
 4.  Select the initial XLSForm design you would like to use.
 
@@ -84,8 +84,8 @@ Connect, you\'ll see a preview of the survey you just created.*
 -   *types -- this sheet explains the format and rules of the XLS form*
 
 7.  Click the **Publish** button ![Publish
-    button](Authoring_Survey123_Forms_and_Data/media/image3.png){width="0.44583333333333336in"
-    height="0.3736111111111111in"}.
+    button](Authoring_Survey123_Forms_and_Data/media/image3.png)
+    .
 
 *Your survey is now available for download and use in the Survey123field
 app.*
@@ -113,16 +113,16 @@ To configure:
 
 -   Open the Choices sheet.
 
-![](Authoring_Survey123_Forms_and_Data/media/image4.png){width="3.73913167104112in"
-height="1.4745877077865266in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image4.png)
+
 
 -   Create a list of the choices you'd like the user to choose from. The
     Name field must be database friendly (it cannot contains spaces or
     special characters), while the Label field is what the user will
     see.
 
-![](Authoring_Survey123_Forms_and_Data/media/image5.png){width="2.639469597550306in"
-height="1.7675021872265966in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image5.png)
+
 
 -   Click back to the survey sheet.
 
@@ -130,8 +130,8 @@ height="1.7675021872265966in"}
     \[list\_name\] with the name of the list that was created in the
     choices sheet (ex: select\_one example).
 
-![](Authoring_Survey123_Forms_and_Data/media/image6.png){width="4.45358595800525in"
-height="0.6529691601049868in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image6.png)
+
 
 -   Ignore any warnings after changing the list name.
 
@@ -142,16 +142,16 @@ height="0.6529691601049868in"}
 Select\_one questions can be strung together so the choice selected in
 one question limits the options available to choose from in the next
 question. For more information click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2015/10/22/cascading-selects-and-external-selects)
+[here](https://geonet.esri.com/groups/survey123/blog/2015/10/22/cascading-selects-and-external-selects)
 or
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformcascadingselects.htm).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformcascadingselects.htm).
 
 #### External Selects
 
 For select\_one questions with a lot of choice options an external
 select should be used to improve performance. For more information about
 external selects click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformcascadingselects.htm#ESRI_SECTION1_26C265B8FFAC45C6BFDD89652C1BA7CF).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformcascadingselects.htm#ESRI_SECTION1_26C265B8FFAC45C6BFDD89652C1BA7CF).
 
 ### Select Multiple
 
@@ -166,30 +166,30 @@ Notes can contain text, images, video, or audio.
 
 For more information about how note questions can be used to show data
 based on the answer to a given question click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2016/10/27/the-pulldata-function-access-external-data).
+[here](https://geonet.esri.com/groups/survey123/blog/2016/10/27/the-pulldata-function-access-external-data).
 For information about how to style notes click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformnotes.htm).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformnotes.htm).
 
 ### Geopoint
 
 This question type collects a single set of GPS coordinates. More
 information about the parameters that are collected in a geopoint
 question and can be used in other questions can be found
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2016/11/03/extracting-information-from-geopoint-questions).
+[here](https://geonet.esri.com/groups/survey123/blog/2016/11/03/extracting-information-from-geopoint-questions).
 
 Geopoint questions can also be populated based on the answer to a
 previous question using pulldata() in the calculation field, for more
 information click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/geopoints.htm#ESRI_SECTION1_B1148946F7B940119DE351D84578A8B1).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/geopoints.htm#ESRI_SECTION1_B1148946F7B940119DE351D84578A8B1).
 There are also a number of example XLS files in the Samples section of
 Survey123 Connect.
 
-![](Authoring_Survey123_Forms_and_Data/media/image7.png){width="3.3915387139107613in"
-height="3.2476891951006124in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image7.png)
+
 
 For more information about geopoints, including accuracy thresholds, 3D,
 and read-only, click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/geopoints.htm).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/geopoints.htm).
 
 ### Date
 
@@ -199,10 +199,10 @@ for this question type is today()
 
 For more information about formatting dates and time, as well as doing
 calculations with time in Survey123 click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2016/04/17/dates-and-time-in-survey123-for-arcgis).
+[here](https://geonet.esri.com/groups/survey123/blog/2016/04/17/dates-and-time-in-survey123-for-arcgis).
 The Survey123 field apps support Epoch time and decimal time, but the
 web app only supports decimal time, for more information click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/browser/create-surveys/decimaldatetime.htm).
+[here](http://doc.arcgis.com/en/survey123/browser/create-surveys/decimaldatetime.htm).
 
 ### Time
 
@@ -211,10 +211,10 @@ type is now().
 
 For more information about formatting dates and time, as well as doing
 calculations with time in Survey123 click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2016/04/17/dates-and-time-in-survey123-for-arcgis).
+[here](https://geonet.esri.com/groups/survey123/blog/2016/04/17/dates-and-time-in-survey123-for-arcgis).
 The Survey123 field apps support Epoch time and decimal time, but the
 web app only supports decimal time, for more information click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/browser/create-surveys/decimaldatetime.htm).
+[here](http://doc.arcgis.com/en/survey123/browser/create-surveys/decimaldatetime.htm).
 
 ### Date Time
 
@@ -223,10 +223,10 @@ question type is now().
 
 For more information about formatting dates and time, as well as doing
 calculations with time in Survey123 click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2016/04/17/dates-and-time-in-survey123-for-arcgis).
+[here](https://geonet.esri.com/groups/survey123/blog/2016/04/17/dates-and-time-in-survey123-for-arcgis).
 The Survey123 field apps support Epoch time and decimal time, but the
 web app only supports decimal time, for more information click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/browser/create-surveys/decimaldatetime.htm).
+[here](http://doc.arcgis.com/en/survey123/browser/create-surveys/decimaldatetime.htm).
 
 ### Image
 
@@ -237,7 +237,7 @@ when surveys/reports need to be printed and archived.
 
 For information about how to access pictures collected using this
 question type click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2017/03/22/working-with-your-survey123-photos).
+[here](https://geonet.esri.com/groups/survey123/blog/2017/03/22/working-with-your-survey123-photos).
 
 ### Begin Group
 
@@ -271,17 +271,17 @@ questions.
 
 For more information about the types of calculations that can be
 performed click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_DB5A29AC645F4AE585D7CEA9E6D5A36B).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_DB5A29AC645F4AE585D7CEA9E6D5A36B).
 For information about which operators can be used in the calculations
 click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_276FB773E7E2442EB81831714B08660D).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_276FB773E7E2442EB81831714B08660D).
 For a quick video tutorial click
-[[here]{.underline}](https://www.youtube.com/watch?v=H8RO-3RPRSU). There
+[here](https://www.youtube.com/watch?v=H8RO-3RPRSU). There
 is also a Calculations XLS file in the Samples section of Survey123
 Connect.
 
-![](Authoring_Survey123_Forms_and_Data/media/image8.png){width="4.038132108486439in"
-height="2.5294411636045493in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image8.png)
+
 
 ### Username
 
@@ -307,12 +307,12 @@ field.
 This question type scans a bar code or QR code.
 
 For information about which types of barcodes Survey123 supports click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2016/05/17/understanding-barcode-questions-in-survey123-for-arcgis).
+[here](https://geonet.esri.com/groups/survey123/blog/2016/05/17/understanding-barcode-questions-in-survey123-for-arcgis).
 There is also an XLS form in the Samples section of Survey123 Connect
 that has barcode examples.
 
-![](Authoring_Survey123_Forms_and_Data/media/image9.png){width="3.6559120734908137in"
-height="2.2974431321084863in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image9.png)
+
 
 ### Start
 
@@ -348,7 +348,7 @@ XLS Form Fields
 
 The type column sets the question type, a list can be found above, in
 the Survey123
-[[documentation]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/quickreferencecreatesurveys.htm#GUID-2D96112F-85B1-4C41-9C6F-A85BB6026A51),
+[documentation](http://doc.arcgis.com/en/survey123/desktop/create-surveys/quickreferencecreatesurveys.htm#GUID-2D96112F-85B1-4C41-9C6F-A85BB6026A51),
 or in the types sheet of the XLS form.
 
 ### Name
@@ -363,14 +363,14 @@ is what will be seen by the user when they are filling out the form.
 
 For information about how to use HTML formatting in the label field
 click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/styleyourform.htm#ESRI_SECTION1_2BDD8020000A49298E5C42F939AB88F6).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/styleyourform.htm#ESRI_SECTION1_2BDD8020000A49298E5C42F939AB88F6).
 
 ### Hint
 
 The values entered in this column will appear below the question label
 and can provide the user with guidance about how to answer the question.
 For more information about hints click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformessentials.htm#ESRI_SECTION1_5F12883901684733A54B1166BCC475A6).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformessentials.htm#ESRI_SECTION1_5F12883901684733A54B1166BCC475A6).
 
 ### Constraint
 
@@ -379,10 +379,10 @@ question. This can include a specific range of numbers, combinations of
 letters and numbers, or general pattern matching.
 
 For more information about setting up constraints click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_8979CBF8B7354DA9A4FE0F6B6D61E1A0).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_8979CBF8B7354DA9A4FE0F6B6D61E1A0).
 For information about how to reference empty values when setting up
 constraints click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_2954BF95CF674951AE9691A656CF157C).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_2954BF95CF674951AE9691A656CF157C).
 
 ### Constraint Message
 
@@ -404,7 +404,7 @@ the required question.
 The value in the appearance column changes the appearance and
 functionality of the survey questions. For more information about the
 different types of appearances click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformsappearance.htm).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformsappearance.htm).
 
   -------------------- ------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- -------------
                        Appearance value                                  Applicable question type                                                                                                                              Description
@@ -441,7 +441,7 @@ Default answers can hold constants, like a string, but can also support
 some expressions. To draw on the answers to other questions the
 Calculations column must be used. For more information about default
 values click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/prepopulateanswers.htm#GUID-A6769D87-9AA3-46A5-9A85-E5336ADB0B5F).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/prepopulateanswers.htm#GUID-A6769D87-9AA3-46A5-9A85-E5336ADB0B5F).
 
 ### Read Only
 
@@ -456,10 +456,10 @@ a question based on the relevant condition that needs to be fulfilled to
 display the current question.
 
 For more information about creating relevant expressions click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformrelevant.htm).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformrelevant.htm).
 To see a list of formula operators that can be used when creating
 relevant expressions click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/quickreferencecreatesurveys.htm#ESRI_SECTION1_C60B4E3BBB3B458B98C996F22B2599E2).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/quickreferencecreatesurveys.htm#ESRI_SECTION1_C60B4E3BBB3B458B98C996F22B2599E2).
 
 ### Calculation
 
@@ -471,10 +471,10 @@ evaluated every time the survey answers change instead of just when the
 survey opens.
 
 For some examples of calculations click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_DB5A29AC645F4AE585D7CEA9E6D5A36B).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformformulas.htm#ESRI_SECTION1_DB5A29AC645F4AE585D7CEA9E6D5A36B).
 To see a list of formula operators that can be used when creating
 calculations click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/quickreferencecreatesurveys.htm#ESRI_SECTION1_C60B4E3BBB3B458B98C996F22B2599E2).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/quickreferencecreatesurveys.htm#ESRI_SECTION1_C60B4E3BBB3B458B98C996F22B2599E2).
 
 ### Choice Filter
 
@@ -484,7 +484,7 @@ question. Using this expression it limits the choices presented to the
 user in the current question.
 
 For more information about how to set up choice filters click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2015/10/22/cascading-selects-and-external-selects).
+[here](https://geonet.esri.com/groups/survey123/blog/2015/10/22/cascading-selects-and-external-selects).
 
 ### Repeat Count
 
@@ -502,9 +502,9 @@ different language. The language1 in the column heading should be
 switched to the appropriate name used to identify the language.
 
 For more information about how to translate survey questions click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformmultiplelanguagesupport.htm#GUID-452B2325-0A5B-4284-AB0A-46BFF810AAF4).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformmultiplelanguagesupport.htm#GUID-452B2325-0A5B-4284-AB0A-46BFF810AAF4).
 A blog post about how multiple language surveys work can be found
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2016/11/16/introducing-multiple-language-surveys).
+[here](https://geonet.esri.com/groups/survey123/blog/2016/11/16/introducing-multiple-language-surveys).
 
 ### Hint::language1
 
@@ -515,16 +515,16 @@ different language. The language1 in the column heading should be
 switched to the appropriate name used to identify the language.
 
 For more information about how to translate hints click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformmultiplelanguagesupport.htm#ESRI_SECTION1_C0098D0882D44EBD9BC013D44AD12510).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformmultiplelanguagesupport.htm#ESRI_SECTION1_C0098D0882D44EBD9BC013D44AD12510).
 
 ### Media::audio
 
 In this column the name of an audio file (including the file extension)
 in the media folder of the survey can be associated with a question. For
 more information about setting up audio click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformmedia.htm#ESRI_SECTION1_BD082EF95CA94EBEB32EBE4D50E82440).
-This [[blog
-post]{.underline}](https://geonet.esri.com/groups/survey123/blog/2015/08/24/surveys-with-style)
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformmedia.htm#ESRI_SECTION1_BD082EF95CA94EBEB32EBE4D50E82440).
+This [blog
+post](https://geonet.esri.com/groups/survey123/blog/2015/08/24/surveys-with-style)
 also contains information about using audio in surveys.
 
 ### Media::image
@@ -532,9 +532,9 @@ also contains information about using audio in surveys.
 In this column the name of an image file (including the file extension)
 in the media folder of the survey can be associated with a question. For
 more information about setting up images click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformmedia.htm#GUID-22BCA2FE-B1F5-428A-B616-1623D0D46A82).
-This [[blog
-post]{.underline}](https://geonet.esri.com/groups/survey123/blog/2015/08/24/surveys-with-style)
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformmedia.htm#GUID-22BCA2FE-B1F5-428A-B616-1623D0D46A82).
+This [blog
+post](https://geonet.esri.com/groups/survey123/blog/2015/08/24/surveys-with-style)
 also contains information about using images in surveys.
 
 ### Body::accuracyThreshold
@@ -544,7 +544,7 @@ associated with a given geopoint question. If the accuracy of the
 geopoint is below the threshold the user will receive a warning but can
 still capture the location. For more information about location accuracy
 thresholds click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/geopoints.htm#GUID-CC769D6B-B463-4F1F-893B-F14F055FF229).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/geopoints.htm#GUID-CC769D6B-B463-4F1F-893B-F14F055FF229).
 
 ### Bind::esri:fieldType
 
@@ -589,7 +589,7 @@ The default mappings for Survey123 questions are as follows:
   ---------------------- --------------------------------------------
 
 For more information about field types click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2015/08/24/xlsform-mappings-to-arcgis-feature-services-an-introduction).
+[here](https://geonet.esri.com/groups/survey123/blog/2015/08/24/xlsform-mappings-to-arcgis-feature-services-an-introduction).
 
 ### Bind::esri:fieldLength
 
@@ -598,7 +598,7 @@ in the feature service and limits the number of characters a user can
 input in the question.
 
 For more information about field length click
-[[here]{.underline}](https://geonet.esri.com/groups/survey123/blog/2015/08/24/xlsform-mappings-to-arcgis-feature-services-an-introduction).
+[here](https://geonet.esri.com/groups/survey123/blog/2015/08/24/xlsform-mappings-to-arcgis-feature-services-an-introduction).
 
 ### Bind::esri:fieldAlias
 
@@ -616,7 +616,7 @@ specific format.
 
 For information about the characters and symbols that can be used in an
 input mask click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/esricustomcolumns.htm#ESRI_SECTION1_2D9AA8F82B714D7DB922D766E56FF3F6).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/esricustomcolumns.htm#ESRI_SECTION1_2D9AA8F82B714D7DB922D766E56FF3F6).
 
 ### Bind::esri:parameters
 
@@ -698,7 +698,7 @@ the same name as the XLSForm file name.
 
 For more information and to learn how to use the form\_id to point a
 survey at a layer in an existing feature service click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformsettings.htm#ESRI_SECTION1_0930884E7F034F478EE091F6DAA1F067).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformsettings.htm#ESRI_SECTION1_0930884E7F034F478EE091F6DAA1F067).
 
 ### Instance Name 
 
@@ -708,9 +708,9 @@ in which survey responses will be labeled in the inbox, draft, outbox
 and sent survey sections of the app.
 
 For more information about setting up an instance name click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsforminstancename.htm)
-or read the [[blog
-post]{.underline}](https://geonet.esri.com/groups/survey123/blog/2017/04/24/understanding-the-instancename-setting)
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsforminstancename.htm)
+or read the [blog
+post](https://geonet.esri.com/groups/survey123/blog/2017/04/24/understanding-the-instancename-setting)
 about it.
 
 ### Submission URL
@@ -721,7 +721,7 @@ for IMSMA Core, more detailed information can be found here.
 
 For more information about using Survey123 with existing feature
 services click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/survey123withexistingfeatureservices.htm).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/survey123withexistingfeatureservices.htm).
 
 ### Default Language
 
@@ -740,7 +740,7 @@ When pages is entered into this column groups of questions are separated
 on to different pages.
 
 For more information about setting up pages watch this
-[[video]{.underline}](https://youtu.be/Btxm888fTkM).
+[video](https://youtu.be/Btxm888fTkM).
 
 Additional Survey Configuration Considerations
 ==============================================
@@ -759,20 +759,20 @@ and input text. You can also use an image as the background of your
 survey, but be sure that the image you\'re referencing is in the media
 subfolder of your survey project folder.
 
-![](Authoring_Survey123_Forms_and_Data/media/image10.png){width="4.07094050743657in"
-height="2.574783464566929in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image10.png)
+
 
 The Map tab is located on the Settings tab. It allows you to choose
 which default online basemap is used in your survey and set a home
 location for geopoint questions. For more information about online
 basemap options click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/includemap.htm#GUID-31B9C45D-8D07-4F0F-A33D-6C0664501D5C),
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/includemap.htm#GUID-31B9C45D-8D07-4F0F-A33D-6C0664501D5C),
 for information about associating maps for offline use with your survey
 click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/includemap.htm#ESRI_SECTION1_C415D40743E5447E868AD60D3C25F14C).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/includemap.htm#ESRI_SECTION1_C415D40743E5447E868AD60D3C25F14C).
 
-![](Authoring_Survey123_Forms_and_Data/media/image11.png){width="4.205670384951881in"
-height="2.6595483377077866in"}
+    ![image](Authoring_Survey123_Forms_and_Data/media/image11.png)
+
 
 The Images tab is located on the Settings tab. It allows you to set the
 size of images submitted with your survey. The following four options
@@ -802,10 +802,10 @@ Inbox can be particularly relevant and useful when different users or
 users from different organizations need to edit parts of the same
 survey.
 
-[]{#_gjdgxs .anchor}If you are enabling the Inbox for a survey with
+If you are enabling the Inbox for a survey with
 repeats review the bind::esri:parameters column information.
 
 For more information about setting up the inbox click
-[[here]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/prepareforediting.htm)
-or watch this [[video
-tutorial]{.underline}](https://youtu.be/aGTPIzTtbSk).
+[here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/prepareforediting.htm)
+or watch this [video
+tutorial](https://youtu.be/aGTPIzTtbSk).

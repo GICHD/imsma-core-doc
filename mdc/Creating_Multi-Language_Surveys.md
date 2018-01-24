@@ -63,8 +63,8 @@ in Survey123 for ArcGIS is as follows:
     example, label::es.
 
     a.  For information on a specific language\'s local codes, see
-        Wikipedia\'s [[List of ISO 639-1
-        codes]{.underline}](https://en.wikipedia.org/wiki/list_of_iso_639-1_codes).
+        Wikipedia\'s [List of ISO 639-1
+        codes](https://en.wikipedia.org/wiki/list_of_iso_639-1_codes).
         However, keep in mind that not all of these languages are
         supported by Survey123.
 
@@ -74,8 +74,8 @@ in Survey123 for ArcGIS is as follows:
 3.  Repeat for each additional language.
 
 ![Create a label column for each
-language](Creating_Multi-Language_Surveys/media/image1.png){width="6.278472222222222in"
-height="1.4784722222222222in"}
+language](Creating_Multi-Language_Surveys/media/image1.png)
+
 
 Translate hints and constraint messages
 ---------------------------------------
@@ -92,8 +92,8 @@ Hints are translated the same way as labels.
 3.  Repeat for each additional language.
 
 ![Create a hint column for each
-language](Creating_Multi-Language_Surveys/media/image2.png){width="6.252083333333333in"
-height="1.35625in"}
+language](Creating_Multi-Language_Surveys/media/image2.png)
+
 
 The constraint message that displays when a constraint is not adhered to
 can also be translated, with a column such as constraint\_message::es.
@@ -113,8 +113,8 @@ You can also provide translations for the options in your choice lists.
 3.  Repeat for each additional language.
 
 ![Create a label column for each
-language](Creating_Multi-Language_Surveys/media/image3.png){width="5.304166666666666in"
-height="1.8520833333333333in"}
+language](Creating_Multi-Language_Surveys/media/image3.png)
+
 
 Translate images and media
 --------------------------
@@ -132,8 +132,8 @@ Translated images can also be provided across languages.
 3.  Repeat for each additional language.
 
 ![Create an image column for each
-language](Creating_Multi-Language_Surveys/media/image4.png){width="5.434722222222222in"
-height="2.078472222222222in"}
+language](Creating_Multi-Language_Surveys/media/image4.png)
+
 
 Audio files attached to a question or choice can be translated similarly
 with an audio:: column, such as audio::es.
@@ -172,5 +172,5 @@ If no translations have been supplied, there will be no languages
 listed.
 
 []{#_gjdgxs
-.anchor}![](Creating_Multi-Language_Surveys/media/image5.png){width="2.2629779090113735in"
-height="4.028288495188101in"}
+.anchor}    ![image](Creating_Multi-Language_Surveys/media/image5.png)
+

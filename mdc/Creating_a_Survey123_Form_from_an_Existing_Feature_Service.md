@@ -11,7 +11,7 @@ service.
 ArcGIS geodatabase model to an XLSForm, many of which present themselves
 when working with repeats. If your feature service has repeats (related
 tables) in it please refer to this
-[[blog]{.underline}](https://geonet.esri.com/groups/survey123/blog/2017/09/25/working-with-existing-feature-services-in-survey123-for-arcgis)
+[blog](https://geonet.esri.com/groups/survey123/blog/2017/09/25/working-with-existing-feature-services-in-survey123-for-arcgis)
 in addition to this document.
 
 How to Create a Survey on an Existing Feature Service
@@ -19,14 +19,14 @@ How to Create a Survey on an Existing Feature Service
 
 1.  Open Survey123 Connect and click **New Survey**.
 
-![](Creating_a_Survey123_Form_from_an_Existing_Feature_Service/media/image1.png){width="4.3602198162729655in"
-height="2.580204505686789in"}
+    ![image](Creating_a_Survey123_Form_from_an_Existing_Feature_Service/media/image1.png)
+
 
 2.  Select **Feature Service** and search for the feature service you
     would like to use to build your survey.
 
-![](Creating_a_Survey123_Form_from_an_Existing_Feature_Service/media/image2.png){width="4.0470166229221345in"
-height="2.4638090551181104in"}
+    ![image](Creating_a_Survey123_Form_from_an_Existing_Feature_Service/media/image2.png)
+
 
 -   Note: you will see feature services that have line and polygon
     geometries, be sure to select only a feature service with a point
@@ -136,8 +136,8 @@ although if you like you can model them as *constraints* in the XLSForm
 survey worksheet relatively easy.  Also, if your feature layer has
 subtypes and each subtype has been assigned a coded value domain,
 Connect will ignore the domains as well. If you wanted to model that,
-you could setup [[cascading
-selects]{.underline}](https://geonet.esri.com/external-link.jspa?url=http%3A%2F%2Fdoc.arcgis.com%2Fen%2Fsurvey123%2Fdesktop%2Fcreate-surveys%2Fxlsformcascadingselects.htm) manually.
+you could setup [cascading
+selects](https://geonet.esri.com/external-link.jspa?url=http%3A%2F%2Fdoc.arcgis.com%2Fen%2Fsurvey123%2Fdesktop%2Fcreate-surveys%2Fxlsformcascadingselects.htm) manually.
 
 Modifying the Initial XLSForm Design
 ------------------------------------
@@ -224,7 +224,7 @@ Settings Sheet:
 Adding Questions:
 -----------------
 
-[]{#_30j0zll .anchor}There are certain types of questions that can be
+There are certain types of questions that can be
 added without affecting the existing schema of the feature service.
 
 -   Groups -- can be used to break down questions in your survey into

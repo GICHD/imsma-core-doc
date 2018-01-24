@@ -49,7 +49,7 @@ The ingredients for a tile package are:
     a.  The service URL of the map service with Tile Export Enabled --
         this specifies which service + tiles to request
 
-> or
+    or
 
 b.  The map in ArcMap or Pro to export a TPK from
 
@@ -86,7 +86,7 @@ generate the exported package, which is then downloaded to their
 computer.
 
 Help for the Tile Package Kreator is available here:
-[[https://esri.app.box.com/s/d6xaclvrdu14pqk6t95arxu02zz2mtin]{.underline}](https://esri.app.box.com/s/d6xaclvrdu14pqk6t95arxu02zz2mtin)
+[https://esri.app.box.com/s/d6xaclvrdu14pqk6t95arxu02zz2mtin](https://esri.app.box.com/s/d6xaclvrdu14pqk6t95arxu02zz2mtin)
 
 Users can also create Tile Packages with ArcMap and ArcGIS Pro. These
 tools are helpful for when a user wants to include other layers in their
@@ -95,18 +95,18 @@ other layers are included in a tile package they are "flattened" to the
 raster format of the TPK, so no attributes can be extracted and
 symbology cannot be changed.
 
-ArcMap documentation: [[How to create a tile
-package]{.underline}](http://desktop.arcgis.com/en/arcmap/latest/map/working-with-arcmap/how-to-create-a-tile-package.htm)
+ArcMap documentation: [How to create a tile
+package](http://desktop.arcgis.com/en/arcmap/latest/map/working-with-arcmap/how-to-create-a-tile-package.htm)
 
-ArcGIS Pro documentation: [[Tile Package
-Overview]{.underline}](http://pro.arcgis.com/en/pro-app/help/sharing/overview/tile-package.htm)
+ArcGIS Pro documentation: [Tile Package
+Overview](http://pro.arcgis.com/en/pro-app/help/sharing/overview/tile-package.htm)
 
 Tile packages can also be created directly from the ArcGIS REST API by a
-developer using the Export Tiles function (when enabled): [[Export Tiles
-Documentation]{.underline}](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#/Export_Tiles/02r30000025t000000/)
+developer using the Export Tiles function (when enabled): [Export Tiles
+Documentation](http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#/Export_Tiles/02r30000025t000000/)
 
 Another web-based tool for creating tile packages is available here:
-[[http://nixta.github.io/tpk-creator/\#]{.underline}](http://nixta.github.io/tpk-creator/)
+[http://nixta.github.io/tpk-creator/\#](http://nixta.github.io/tpk-creator/)
 
 Methods for making Tile Packages available to users in Survey123
 ----------------------------------------------------------------
@@ -115,20 +115,20 @@ There are four main methods for getting a tile package available to
 Survey123 field users:
 
 1.  Load to an SD Card -
-    [[Documentation]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm#ESRI_SECTION1_7D8E3F7EB17A457088A9368CB065465B)
+    [Documentation](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm#ESRI_SECTION1_7D8E3F7EB17A457088A9368CB065465B)
 
 2.  Copy your Tile Package Directly to the Device -
-    [[Documentation]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm#ESRI_SECTION1_2AE91E3EDB004B61905B1B7E7D0A6431)
+    [Documentation](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm#ESRI_SECTION1_2AE91E3EDB004B61905B1B7E7D0A6431)
 
 3.  Package TPKs in the media folder during Survey publishing -
-    [[Documentation]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm#ESRI_SECTION1_7C1C32D5FB2C401DA4F1A547A93891C9)
+    [Documentation](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm#ESRI_SECTION1_7C1C32D5FB2C401DA4F1A547A93891C9)
 
 4.  Upload TPKs to Portal and reference them in the Survey -
-    [[Documentation]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm#ESRI_SECTION1_81F988166E0D4CB4BD6823C84AE3186C)
+    [Documentation](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm#ESRI_SECTION1_81F988166E0D4CB4BD6823C84AE3186C)
 
 These methods are all covered in detail in the following documentation
 from the Survey123 website:
-[[http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm)
+[http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm](http://doc.arcgis.com/en/survey123/desktop/create-surveys/preparebasemaps.htm)
 
 Included below is a brief Pro/Con listing of the options to help decide
 which is best for a specific scenario:
@@ -181,7 +181,7 @@ which is best for a specific scenario:
 | Add the TPK     | -   Create tile | -   Requires    | Best option     |
 | link to the     |     package     |     bandwidth   | across the      |
 | MySurvey.info   |     once and    |     for users   | various use     |
-| file after      |     host it -\> |     to download | cases           |
+| file after      |     host it -\    |     to download | cases           |
 | publishing      |     everyone    |                 |                 |
 |                 |     can use     | -   Manual      |                 |
 |                 |                 |     process to  |                 |

@@ -52,7 +52,7 @@ text field you can do so but it will not create a domain in the feature
 service.
 
 See
-[[http://doc.arcgis.com/en/survey123/desktop/create-surveys/publishsurvey.htm\#ESRI\_SECTION1\_97A01E11C37D401EB95C7D22EF251F66]{.underline}](http://doc.arcgis.com/en/survey123/desktop/create-surveys/publishsurvey.htm#ESRI_SECTION1_97A01E11C37D401EB95C7D22EF251F66)
+[http://doc.arcgis.com/en/survey123/desktop/create-surveys/publishsurvey.htm\#ESRI\_SECTION1\_97A01E11C37D401EB95C7D22EF251F66](http://doc.arcgis.com/en/survey123/desktop/create-surveys/publishsurvey.htm#ESRI_SECTION1_97A01E11C37D401EB95C7D22EF251F66)
 for more information.
 
 Survey Sheet:
@@ -163,4 +163,3 @@ schema by using the bind::esri:fieldType of null. This could prove
 useful for questions that are used to drive the relevant logic of the
 survey or to gather information used in a calculation.
 
-[]{#_gjdgxs .anchor}

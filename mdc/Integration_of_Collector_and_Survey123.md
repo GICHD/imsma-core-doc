@@ -23,7 +23,7 @@ Creating Custom URL Schemes
 ---------------------------
 
 Through a custom URL scheme you can remotely launch apps and invoke
-actions in them. Similar to the [[https://]{.underline}](http://null)
+actions in them. Similar to the [https://](http://null)
 you see before web urls, a custom URL scheme directs an application to
 open a specific piece of content with specific parameters, in this case
 to open a survey with some questions filled in.
@@ -126,31 +126,31 @@ pop-up must be created.
 2.  Click the three dot icon under the layer name, then click
     **Configure Pop-up**.
 
-![](Integration_of_Collector_and_Survey123/media/image1.png){width="2.881741032370954in"
-height="2.8140244969378827in"}
+    ![image](Integration_of_Collector_and_Survey123/media/image1.png)
+
 
 3.  Change the **Display** to **A custom attribute display**.
 
-![](Integration_of_Collector_and_Survey123/media/image2.png){width="2.547746062992126in"
-height="2.7911614173228347in"}
+    ![image](Integration_of_Collector_and_Survey123/media/image2.png)
+
 
 4.  Click **CONFIGURE**.
 
-![](Integration_of_Collector_and_Survey123/media/image3.png){width="2.488336614173228in"
-height="2.249838145231846in"}
+    ![image](Integration_of_Collector_and_Survey123/media/image3.png)
+
 
 5.  Use the plus sign next to the font size to add the attributes you
     want included in the pop-up. Format them as needed.
 
-![](Integration_of_Collector_and_Survey123/media/image4.png){width="3.882050524934383in"
-height="2.1231003937007875in"}
+    ![image](Integration_of_Collector_and_Survey123/media/image4.png)
+
 
 6.  Add the text you would like for the hyperlink then click the link
     icon and paste the custom URL in the **URL** box, then click
     **Set**.
 
-![](Integration_of_Collector_and_Survey123/media/image5.png){width="3.873532370953631in"
-height="2.2736307961504814in"}
+    ![image](Integration_of_Collector_and_Survey123/media/image5.png)
+
 
 7.  Click **OK** then click **OK** to save the pop-up configuration.
     Then click **Save** to save the map.
@@ -200,10 +200,10 @@ To work offline, download the map to your device.
 
 Survey123 supports the use of offline basemaps. These basemaps must be
 of the Esri file type of tile package and web mercator projection. Tile
-packages can be created using [[ArcGIS
-Pro]{.underline}](http://pro.arcgis.com/en/pro-app/tool-reference/data-management/create-map-tile-package.htm)
-or the [[Tile Package
-Kreator]{.underline}](https://geonet.esri.com/groups/appstudio/blog/2017/02/02/tile-package-kreaor-release-11-available-now).
+packages can be created using [ArcGIS
+Pro](http://pro.arcgis.com/en/pro-app/tool-reference/data-management/create-map-tile-package.htm)
+or the [Tile Package
+Kreator](https://geonet.esri.com/groups/appstudio/blog/2017/02/02/tile-package-kreaor-release-11-available-now).
 
 The Tile Package Kreator can create a copy of the tile package locally
 which can then be copied directly to the mobile device or an external
@@ -237,7 +237,7 @@ To copy the map to the device:
         already exist. You can safely create this folder before copying
         your .tpk file. For additional information on files in iTunes,
         refer to
-        [[https://support.apple.com/en-au/HT201301]{.underline}](https://support.apple.com/en-au/HT201301).
+        [https://support.apple.com/en-au/HT201301](https://support.apple.com/en-au/HT201301).
 
 5.  In the Survey123 field app, select **Menu \> Settings \> Map** and
     browse to your \~\\ArcGIS\\My Surveys\\Maps **Map Library Folder**.
