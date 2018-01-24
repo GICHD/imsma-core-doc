@@ -400,9 +400,9 @@ functionality of the survey questions. For more information about the
 different types of appearances click
 [here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformsappearance.htm).
 
-| --------------------| -----------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------|-------------
+
 | Appearance value    | Applicable question type                       |   Description|
-| --------------------| -----------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------|-------------
+| ---- ---------------| -----------------------------------------------| -------------|
 | Signature           |Image                                           | Presents a UI for signature capture. The signature will be added to the feature as an attachment.                                                    |
 | Draw                |Image                                           | Allows user to open a canvas window to sketch on.                                                                                                    |
 | Annotate            |Image                                           | Allows user to open a canvas window to sketch on. Also supports annotation on images.                                                                |
