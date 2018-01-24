@@ -65,25 +65,24 @@ Linux). Then, complete the following steps:
 
 5.  Click **Create Survey**.
 
-*A new survey is created and opened for you to view. In Survey123
-Connect, you\'ll see a preview of the survey you just created.*
+    *A new survey is created and opened for you to view. In Survey123
+    Connect, you\'ll see a preview of the survey you just created.*
 
 6.  Modify the survey as needed using the XLSForm.
 
     *The XLS form has four sheets: *
 
--   *survey -- this sheet is where the questions in the survey are specified*
+    -   *survey -- this sheet is where the questions in the survey are specified*
 
--   *choices -- this sheet contains the choices for select\_one and select\_multiple question types*
+    -   *choices -- this sheet contains the choices for select\_one and select\_multiple question types*
 
--   *settings -- this sheet controls the presentation and behavior of the survey*
+    -   *settings -- this sheet controls the presentation and behavior of the survey*
 
--   *types -- this sheet explains the format and rules of the XLS form*
+    -   *types -- this sheet explains the format and rules of the XLS form*
 
 7.  Click the **Publish** button ![Publishbutton](Authoring_Survey123_Forms_and_Data/media/image3.png)
 
-*Your survey is now available for download and use in the Survey123field
-app.*
+    *Your survey is now available for download and use in the Survey123field app.*
 
 Question Types
 --------------
