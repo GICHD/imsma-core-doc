@@ -152,6 +152,7 @@ Survey Sheet:
 
 
 |  Survey123 XLSForm Column   | Can be updated without feature service updates?  | Comments |
+| --- | --- | --- |
 |  type                       | Yes                                              | Change of type must be compatible with field type (ex: text to select\_one, date to dateTime) |
 |  name                       | No                                                |  |
 |  label::en                  | Yes                                              | |
