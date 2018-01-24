@@ -28,7 +28,7 @@ How to Create a Survey on an Existing Feature Service
     ![image](Creating_a_Survey123_Form_from_an_Existing_Feature_Service/media/image2.png)
 
 
--   Note: you will see feature services that have line and polygon
+    Note: you will see feature services that have line and polygon
     geometries, be sure to select only a feature service with a point
     geometry.
 
