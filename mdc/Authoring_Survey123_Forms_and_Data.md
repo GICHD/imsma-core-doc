@@ -400,29 +400,30 @@ functionality of the survey questions. For more information about the
 different types of appearances click
 [here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/xlsformsappearance.htm).
 
-  -------------------- ------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- -------------
-                       Appearance value                                  Applicable question type                                                                                                                              Description
-  Signature            Image                                             Presents a UI for signature capture. The signature will be added to the feature as an attachment.                                                     
-  Draw                 Image                                             Allows user to open a canvas window to sketch on.                                                                                                     
-  Annotate             Image                                             Allows user to open a canvas window to sketch on. Also supports annotation on images.                                                                 
-  Minimal              Select\_one, Select\_multiple, Barcode, Repeats   Presents choices for select\_one and select\_multiple in drop down menu. Hides the text bar for barcode questions. Hides the questions for repeats.   
-  Multiline            Text                                              Will make the text box multiple lines long.                                                                                                           
-  Likert               Select\_one                                       Makes the answer choices appear as a Likert scale.                                                                                                    
-  Month-year           Date                                              Select a month and year only for the date.                                                                                                            
-  Year                 Date                                              Select only a year for the date.                                                                                                                      
-  Week-number          Date                                              Select a week number.                                                                                                                                 
-  Distress             Integer                                           A highly specific widget to measure distress on a 0-10 scale.                                                                                         
-  Calculator           Integer, Decimal                                  Displays a custom calculator widget.                                                                                                                  
-  Numbers              Integer, Decimal                                  Displays a custom numeric keyboard.                                                                                                                   
-  Spinner              Integer, Decimal                                  Adds buttons to increase and decrease value.                                                                                                          
-  Horizontal           Select\_one, Select\_multiple                     Displays answer choices horizontally, but in columns.                                                                                                 
-  Horizontal-compact   Select\_one, Select\_multiple                     Displays answer choices horizontally.                                                                                                                 
-  Autocomplete         Select\_one                                       Answer choices appear in a pull-down menu, with text input to narrow down options.                                                                    
-  Compact              Groups, Repeats                                   Group of questions will appear collapsed on startup.                                                                                                  
-  Minimal compact      Repeats                                           Group of questions is displayed both collapsed and hidden.                                                                                            
-  Field-list           Groups, Repeats                                   Applies to groups and repeats, when style is set to pages. Displays group of questions on a separate page.                                            
-  Hide-input           Geopoint                                          Collapses the coordinate entry section of the widget in web form.                                                                                     
-  -------------------- ------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- -------------
+| --------------------| -----------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------|-------------
+| Appearance value    | Applicable question type                       |   Description|
+| --------------------| -----------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------|-------------
+| Signature           |Image                                           | Presents a UI for signature capture. The signature will be added to the feature as an attachment.                                                    |
+| Draw                |Image                                           | Allows user to open a canvas window to sketch on.                                                                                                    |
+| Annotate            |Image                                           | Allows user to open a canvas window to sketch on. Also supports annotation on images.                                                                |
+| Minimal             |Select\_one, Select\_multiple, Barcode, Repeats | Presents choices for select\_one and select\_multiple in drop down menu. Hides the text bar for barcode questions. Hides the questions for repeats.  |
+| Multiline           |Text                                            | Will make the text box multiple lines long.                                                                                                          |
+| Likert              |Select\_one                                     | Makes the answer choices appear as a Likert scale.                                                                                                   |
+| Month-year          |Date                                            | Select a month and year only for the date.                                                                                                           |
+| Year                |Date                                            | Select only a year for the date.                                                                                                                     |
+| Week-number         |Date                                            | Select a week number.                                                                                                                                |
+| Distress            |Integer                                         | A highly specific widget to measure distress on a 0-10 scale.                                                                                        |
+| Calculator          |Integer, Decimal                                | Displays a custom calculator widget.                                                                                                                 | 
+| Numbers             |Integer, Decimal                                | Displays a custom numeric keyboard.                                                                                                                  |
+| Spinner             |Integer, Decimal                                | Adds buttons to increase and decrease value.                                                                                                         |
+| Horizontal          |Select\_one, Select\_multiple                   | Displays answer choices horizontally, but in columns.                                                                                                |
+| Horizontal-compact  |Select\_one, Select\_multiple                   | Displays answer choices horizontally.                                                                                                                |
+| Autocomplete        |Select\_one                                     | Answer choices appear in a pull-down menu, with text input to narrow down options.                                                                   |
+| Compact             |Groups, Repeats                                 | Group of questions will appear collapsed on startup.                                                                                                 |
+| Minimal compact     |Repeats                                         | Group of questions is displayed both collapsed and hidden.                                                                                           |
+| Field-list          |Groups, Repeats                                 | Applies to groups and repeats, when style is set to pages. Displays group of questions on a separate page.                                           |
+| Hide-input          |Geopoint                                        | Collapses the coordinate entry section of the widget in web form.                                                                                    |
+  -------------------- ------------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------|-------------
 
 ### Default
 
