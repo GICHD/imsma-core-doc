@@ -274,7 +274,7 @@ For a quick video tutorial click
 is also a Calculations XLS file in the Samples section of Survey123
 Connect.
 
-    ![image](Authoring_Survey123_Forms_and_Data/media/image8.png)
+![image](Authoring_Survey123_Forms_and_Data/media/image8.png)
 
 
 ### Username
@@ -305,7 +305,7 @@ For information about which types of barcodes Survey123 supports click
 There is also an XLS form in the Samples section of Survey123 Connect
 that has barcode examples.
 
-    ![image](Authoring_Survey123_Forms_and_Data/media/image9.png)
+![image](Authoring_Survey123_Forms_and_Data/media/image9.png)
 
 
 ### Start
