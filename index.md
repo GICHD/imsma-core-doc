@@ -24,4 +24,3 @@ IMSMA Core is a system of tools, workflows and software to support Mine Action. 
 
 
 
-![image](https://user-images.githubusercontent.com/1691225/34474477-7a4c1e4c-ef3c-11e7-9a73-fc762d7cc1f8.png)
