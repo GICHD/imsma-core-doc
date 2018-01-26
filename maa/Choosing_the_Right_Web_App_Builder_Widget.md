@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Choosing the Right Web App Builder Widget
 =========================================
 
@@ -141,3 +143,5 @@ based on the filter criteria.
     Filter widget has.
 
 -   Displays features that meet filter criteria in a list in the widget.
+
+[Back to main menu](../index.md)  
