@@ -1,4 +1,4 @@
-[Back to main menu](index.md)  
+[Back to main menu](../index.md)  
 
 Engagement Strategy
 ===================
@@ -391,4 +391,4 @@ folder can be created based on the country name (for national programs)
 or the operator name (for sub-national operations or international NGO
 operations).
 
-[Back to main menu](index.md)  
+[Back to main menu](../index.md)  
