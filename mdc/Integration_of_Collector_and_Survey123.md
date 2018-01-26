@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Integration of Collector and Survey123
 ======================================
 
@@ -266,3 +268,5 @@ basemaps for much larger areas.
 5.  Once the file finishes copying, Restart Collector on your device and
     you should have access to this base map on the next map download
     operation.
+
+[Back to main menu](../index.md)  
