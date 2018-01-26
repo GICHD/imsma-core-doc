@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Making Changes to Survey123 Forms
 =================================
 
@@ -162,3 +164,4 @@ schema by using the bind::esri:fieldType of null. This could prove
 useful for questions that are used to drive the relevant logic of the
 survey or to gather information used in a calculation.
 
+[Back to main menu](../index.md)  
