@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Selecting the Right Web Application in Portal
 =============================================
 
@@ -505,3 +507,5 @@ configuration options.
     simple select a
     [theme](http://server.arcgis.com/en/portal/latest/use/themes-tab.htm)
     that takes up minimal screen space such as Billboard or Box.
+
+[Back to main menu](../index.md)  
