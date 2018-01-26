@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Creating Multi-Language Surveys
 ===============================
 
@@ -173,3 +175,4 @@ listed.
 
 ![image](Creating_Multi-Language_Surveys/media/image5.png)
 
+[Back to main menu](../index.md)  
