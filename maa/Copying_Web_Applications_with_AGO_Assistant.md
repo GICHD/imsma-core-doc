@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Copying Items with AGO Assistant
 ================================
 
@@ -142,3 +144,5 @@ copied web app at the copied web map.
 
 15. Go to the portal and confirm your copied web app is pointing at your
     copied web map and all the widgets are behaving as expected.
+
+[Back to main menu](../index.md)  
