@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Solution Components 
 ====================
 
@@ -467,3 +469,5 @@ and any other user with access to the data to access summary counts,
 timelines of data and frequency statistics for question responses. This
 webpage is available hosted by Esri or as a deployable part of the IMSMA
 Core system
+
+[Back to main menu](../index.md)  
