@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Authoring Survey123 Forms and Data
 ==================================
 
@@ -805,3 +807,5 @@ For more information about setting up the inbox click
 [here](http://doc.arcgis.com/en/survey123/desktop/create-surveys/prepareforediting.htm)
 or watch this [video
 tutorial](https://youtu.be/aGTPIzTtbSk).
+
+[Back to main menu](../index.md)  
