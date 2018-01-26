@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Web AppBuilder Overview
 =======================
 
@@ -320,3 +322,5 @@ App state
 Check the **App state** check box to keep the map extent and layer
 visibility when you exit the app. It is turned on by default. This
 option is not available when you build 3D apps.
+
+[Back to main menu](../index.md)  
