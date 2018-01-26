@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Create apps from maps
 =====================
 
@@ -204,3 +206,5 @@ below:
     
 
     b.  Click **OK** to open Web AppBuilder and continue creating your app.
+
+[Back to main menu](../index.md)  
