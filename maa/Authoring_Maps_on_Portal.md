@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Authoring Maps on Portal
 ========================
 
@@ -492,3 +494,5 @@ location, such as the acquisition date, sensor type, and cloud cover.
 
 9.  Click **Save** from the top of the map viewer to
     save the pop-up changes to the map.
+
+[Back to main menu](../index.md)  
