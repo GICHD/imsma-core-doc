@@ -1,3 +1,5 @@
+[Back to main menu](../index.md)  
+
 Creating a Survey123 Form from an Existing Feature Service
 ==========================================================
 
@@ -239,3 +241,5 @@ All other types of questions can be added without affecting the existing
 schema by using the bind::esri:fieldType of null. This could prove
 useful for questions that are used to drive the relevant logic of the
 survey or to gather information used in a calculation.
+
+[Back to main menu](../index.md)  
