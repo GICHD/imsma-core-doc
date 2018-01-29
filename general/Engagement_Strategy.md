@@ -53,7 +53,7 @@ for the Program:
 -   Existing IT resources, mobile devices, network configuration and
     level of internet access for their primary users
 
-    -   [[https://cloudharmony.com/speedtest-for-aws]{.underline}](https://cloudharmony.com/speedtest-for-aws)
+    -   [https://cloudharmony.com/speedtest-for-aws](https://cloudharmony.com/speedtest-for-aws)
         provides an excellent network speed test, which takes about 30
         minutes to run but provides guidance on which AWS regions
         provide the best access and Internet speeds from a user's
