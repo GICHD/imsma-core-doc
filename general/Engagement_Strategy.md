@@ -137,7 +137,7 @@ and eventually agreed to by the NMAC or Operator. The default length of
 schedule and content is still to be determined, but an example schedule
 could follow this structure:
 
-1.  Months 1-2
+1.  Months 1
 
     -   Initial IMSMA Core scoping meeting (on-site with program) and
         production of materials related to existing IMSMAng current use
@@ -150,13 +150,13 @@ could follow this structure:
     -   Obtain and convert FFML forms with IMSMA Core tools to provide a
         starting point for Survey123 Development.
 
-2.  Months 3-6
+2.  Months 2-3
 
     -   IMSMA Advisor preparation of IMSMA Core pilot materials,
         migration process and scope of support based on mutual agreement
         with NMAC or Operator
 
-3.  Months 6-8
+3.  Months 4-6
 
     -   Field visit to NMAC or Operator for rollout of IMSMA Core Trial
         (validation with a select set of field users with real data
@@ -165,7 +165,7 @@ could follow this structure:
     -   This activity should focus on the primary use cases for IMSMA
         Core (program-dependent)
 
-4.  Months 9-16
+4.  Months 7-12
 
     -   Trial and final Data Migration to IMSMA Core, migration of
         existing attachments (photos and other) and related GIS and IM
@@ -343,7 +343,7 @@ can be presented to and eventually agreed to by the NMAC or Operator.
 The default length of schedule and content is still to be determined,
 but an example schedule could follow this structure:
 
-1.  Months 1-2
+1.  Months 1
 
     -   Initial IMSMA Core scoping meeting (mission to visit the
         program) and preparation/sharing of materials related to
@@ -353,19 +353,19 @@ but an example schedule could follow this structure:
         specific Mine Action processes or data collection methods that
         are well-suited to prototyping with IMSMA Core
 
-2.  Months 3-6
+2.  Months 2-3
 
     -   IMSMA Advisor preparation of IMSMA Core pilot materials,
         migration process and scope of support based on mutual agreement
         with NMAC or Operator
 
-3.  Months 6-8
+3.  Months 4-6
 
     -   Field visit to NMAC or Operator for rollout of IMSMA Core Trial
         (validation with a select set of field users with real data
         collection examples)
 
-4.  Months 9-16
+4.  Months 7-12
 
     -   Rollout of IMSMA Core to production usage, with ongoing support,
         maintenance, upgrades and bug fixed by GICHD as appropriate.
