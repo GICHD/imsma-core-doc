@@ -52,52 +52,52 @@ geoprocessing tool which will generate these links:
 
     b.  (Test Mode)
 
-        ii. This parameter, if checked, will simulate the linking and
+        i. This parameter, if checked, will simulate the linking and
             updating, rather than updating the feature in the database.
 
 4.  The tool will also display descriptive text describing the number of
     features to be linked (using Tool Validation to show the number of
     selected features from each layer in the map)
 
-    c.  To be developed
+    a.  To be developed
 
 5.  They will execute the tool. The tool will then complete the
     following steps
 
-    d.  Iterate through all selected features and collect a list of
+    a.  Iterate through all selected features and collect a list of
         IMSMA IDs from each source layer which has a feature selection
 
-        iii. Ex. "hazard\_24, accident\_2, device\_4222"
+        i. Ex. "hazard\_24, accident\_2, device\_4222"
 
-    e.  If Linking Features
+    b.  If Linking Features
 
-        iv. If "test mode" is disabled, For each layer which has a
+        i. If "test mode" is disabled, For each layer which has a
             feature selection, append all foreign imsma\_IDs (ids from
             any other selected features) to the imsma\_links field
             (including any other IDs for the current layer) as comma
             separated values, adding to any existing values.
 
-    f.  If Unlinking Features
+    c.  If Unlinking Features
 
-        v.  For each layer which has a feature selection, remove all
+        i.  For each layer which has a feature selection, remove all
             foreign imsma\_IDs (ids from any other selected features)
             from the imsma\_links field (including any other IDs for the
             current layer), keeping the existing values as a comma
             separated list with that value removed.
 
-    g.  Clear the current selection across all layers after completion
+    d.  Clear the current selection across all layers after completion
         of the tool, and provide a summary of actions taken.
 
 6.  The GP tool should also have some validation to check if conditions
     are proper for execution:
 
-    h.  If no features are selected, return an error (preferably in tool
+    a.  If no features are selected, return an error (preferably in tool
         validation)
 
-    i.  If any of the feature classes do not contain the proper fields,
+    b.  If any of the feature classes do not contain the proper fields,
         return a descriptive warning
 
-    j.  Add new features to the links that already exist (do not
+    c.  Add new features to the links that already exist (do not
         overwrite existing linked features)
 
 **Link through Pro Tasks**
