@@ -104,7 +104,7 @@ The data between the fields must be compatible, meaning if you are changing from
 
 15. Restart feature service(s) or the ArcGIS Server service
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Change of type - text to select_one
 
@@ -122,7 +122,7 @@ The data between the fields must be compatible, meaning if you are changing from
 
 7. Restart feature service(s) or the ArcGIS Server service
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Change of field name
 
@@ -139,7 +139,7 @@ The data between the fields must be compatible, meaning if you are changing from
 6. Restart feature service(s) or the ArcGIS Server service
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Change of label
 
@@ -156,7 +156,7 @@ The data between the fields must be compatible, meaning if you are changing from
 6. Restart feature service(s) or the ArcGIS Server service
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Change of bind::esri:fieldLength
 
@@ -173,7 +173,7 @@ The data between the fields must be compatible, meaning if you are changing from
 6. Restart feature service(s) or the ArcGIS Server service
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Adding a new field
 
@@ -194,7 +194,7 @@ The data between the fields must be compatible, meaning if you are changing from
 8. Restart feature service(s) or the ArcGIS Server service
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Adding a new geopoint field
 
@@ -235,7 +235,7 @@ The data between the fields must be compatible, meaning if you are changing from
 11. Change feature service definition by going to Share, Web Layer, Overwrite Web Layer
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Adding a new repeat
 
@@ -257,7 +257,7 @@ The data between the fields must be compatible, meaning if you are changing from
 
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Modifying a choice list
 
@@ -276,7 +276,7 @@ The data between the fields must be compatible, meaning if you are changing from
 6. Restart feature service(s) or the ArcGIS Server service
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Deleting a field from geodatabase
 
@@ -295,7 +295,7 @@ The data between the fields must be compatible, meaning if you are changing from
 7. Ensure that your Survey123 form also has the field deleted and users have updated to the new form version or users will be unable to submit data. 
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 #### Deleting a related table from geodatabase
 
@@ -312,7 +312,7 @@ The data between the fields must be compatible, meaning if you are changing from
 6. Change feature service definition by going to Share, Web Layer, Overwrite Web Layer
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 ## Data Type Conversion Table
 
@@ -335,6 +335,6 @@ The data between the fields must be compatible, meaning if you are changing from
 | esriFIeldTypeString | Text |
 
 
-[top](#impact-on-gdb) 
+[top](#changes-that-must-be-made-in-the-geodatabse-gdb) 
 
 
