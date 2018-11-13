@@ -175,3 +175,7 @@ f.  In the result set, there are usually two links. Try them both and
 
 18. Finally, go back to the survey in Survey123 Connect and copy the URL
     in the "submission\_url" field of the "settings" tab.
+    
+#### Troubleshooting
+
+a. If when re-publishing the form to use the submission_url for the new feature service you get the error "Supports ApplyEdits With Global Ids Parameter is set to false", then follow this [solution from ESRI to create a unique index on the globalid attribute](https://support.esri.com/en/technical-article/000017731).
