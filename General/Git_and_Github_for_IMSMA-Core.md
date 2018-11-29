@@ -22,7 +22,7 @@ If you are a member of the IM division at GICHD, or working on a rollout of IMSM
 
 The easiest way to use Git is to download and install [Github desktop](https://desktop.github.com/), if you are already familiar with Git command line or other options then of course these are compatible with the GICHD repositories.
 
-If you work at the GICHD there are special steps to install and use Github on the local network* so follow the this process;
+If you work at the GICHD there are special steps to install and use Github on the local network* so follow this process;
 
 a. Install and configure Git SCM for Windows
 
@@ -42,6 +42,5 @@ a. Install and configure Git SCM for Windows
 b. Install Github Desktop.  Download from [desktop.github.com](https://desktop.github.com/) and follow the wizard.
 
 When configuring git it's a good idea to enter the anonymous github e-mail address for your account instead of your real email. This keeps your e-mail address out of the commit history.  You can find this email in your [user settings](https://github.com/settings/emails#toggle_visibility) under 'keep my email address private', for example  _123456+kes1@users.noreply.github.com_.
-
 
 
