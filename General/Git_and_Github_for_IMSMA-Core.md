@@ -44,3 +44,26 @@ b. Install Github Desktop.  Download from [desktop.github.com](https://desktop.g
 When configuring git it's a good idea to enter the anonymous github e-mail address for your account instead of your real email. This keeps your e-mail address out of the commit history.  You can find this email in your [user settings](https://github.com/settings/emails#toggle_visibility) under 'keep my email address private', for example  _123456+kes1@users.noreply.github.com_.
 
 
+## Resources for Learning Git
+
+The [Git Book](https://git-scm.com/book/en/v2) is a great place to start for learning about git, though is mostly focussed on the command line application.  The book is available under a free licence, including in e-book formats. 
+
+## How we Use Github for IMSMA Core
+
+For each implementation of IMSMA Core we create a github repository to store resources related to that implementation, and also record progress.
+
+The repository can contain;
+
+* Migration Scripts or SQL Queries
+  e.g.  [Tajikistan](https://github.com/GICHD/tnmac-tajikistan/tree/master/migration))
+* Web Application or Widget Code
+  e.g. [IMSMA Core Demo Data Viewer](https://github.com/GICHD/imsma-core-demo/tree/master/apps/external-data-viewer)
+* Scripts for Data Management or Import/Export
+  e.g. [UNMAS Syria Jupyter notebooks](https://github.com/GICHD/UNMAS-Syria/blob/e696b13e6dbf936c2df929733e8e7646f2201bbc/formImport/VA%20-%201st%20step%20-%20Check%20Excel%20Report-.ipynb)
+* Documentation in [Markdown](https://guides.github.com/features/mastering-markdown/), such as this IMSMA Core Docs repo.
+
+# Issue logging & project planning
+
+Alongside files for code, documentation and SQL queries Github also offers issue recording at the repository level. 
+
+We can use this to record and monitor tasks, or bugs to be worked on. You can see the [issues from all our repositories in one place](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Agichd+archived%3Afalse+sort%3Aupdated-desc). 
