@@ -28,7 +28,7 @@ a. Install and configure Git SCM for Windows
 
    This is the command line version of git and is required to configure Git with our proxy server.  
 
-   1. Download Git for Windows
+   1. Download [Git for Windows](https://git-scm.com/download/win)
    2. Install, ensuring you select schannel for HTTPS.     
     ![Screenshot of install selecting sChannel for SSL on Git](git_scm_install_HTTPS.png)
 
