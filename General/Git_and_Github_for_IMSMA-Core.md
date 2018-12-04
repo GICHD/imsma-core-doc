@@ -31,10 +31,9 @@ a. Install and configure Git SCM for Windows
    1. Download [Git for Windows](https://git-scm.com/download/win)
    2. Install, ensuring you select schannel for HTTPS.     
     ![Screenshot of install selecting sChannel for SSL on Git](git_scm_install_HTTPS.png)
-
-      Accept the other default options or change as you wish, for example to choose a different text editor for commit messages.
+    Accept the other default options or change as you wish, for example to choose a different text editor for commit messages.
       
-    3. Disable SSL Certificate Revocation Check 
+   3. Disable SSL Certificate Revocation Check 
     
        Open the command prompt and enter the following command:
 
