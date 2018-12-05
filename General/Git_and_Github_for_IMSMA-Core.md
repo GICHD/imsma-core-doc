@@ -48,6 +48,8 @@ When configuring git it's a good idea to enter the anonymous github e-mail addre
 
 The [Git Book](https://git-scm.com/book/en/v2) is a great place to start for learning about git, though is mostly focussed on the command line application.  The book is available under a free licence, including in e-book formats. 
 
+![XKCD Comic - delete and start again](https://imgs.xkcd.com/comics/git.png)
+
 ## How we Use Github for IMSMA Core
 
 For each implementation of IMSMA Core we create a github repository to store resources related to that implementation, and also record progress.
