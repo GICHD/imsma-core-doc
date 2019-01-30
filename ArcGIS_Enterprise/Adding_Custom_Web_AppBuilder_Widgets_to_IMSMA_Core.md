@@ -9,8 +9,16 @@ Purpose:
 The ArcGIS developer community has developed a variety of widgets that
 can be used to add functionality to the Web AppBuilder version that
 ships with ArcGIS Enterprise. These widgets are available through
-GeoNet, on GitHub, and from various other sources. The Portal for ArcGIS
-product is not intended to support custom widgets, but they can be added
+GeoNet, on GitHub, and from various other sources. 
+
+## ArcGIS Portal 10.6 Upwards
+
+ArcGIS Portal now supports custom widgets, though of course non-ESRI widgets are not supported by ESRI.  Custom widgets become available in the built in web app builder, and can be shared with other users of the portal.  ESRI have provided a help article to [Add Custom Widgets](http://enterprise.arcgis.com/en/portal/latest/use/add-custom-widgets.htm).  
+
+Note to add a custom widget it must be hosted on a web server, this can be on the same IMSMA Core server as your portal instance.
+
+## ArcGIS Portal < 10.5
+At version 10.5 and below, the Portal for ArcGIS product is not intended to support custom widgets, but they can be added
 through the following workflow. Note that this workflow is not supported
 by Esri Support.
 
